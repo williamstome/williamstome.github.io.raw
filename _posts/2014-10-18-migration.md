@@ -10,18 +10,6 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-<!-- /#table-of-contents -->
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section>
-
-<!-- /#table-of-contents -->
 
 This posts marks the first in my migration from [theaigeek.wordpress.com](theaigeek.wordpress.com) to [williamstome.github.io](williamstome.github.io). 
 
