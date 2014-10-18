@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            williamstome
 locale:           en_US
-url:              http://localhost:4000
+url:              http://williamstome.github.io/
 
 
 # Jekyll configuration
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  name: Tom Williams
+  avatar: https://avatars2.githubusercontent.com/u/3037262?v=2&s=460
+  bio: "Graduate Researcher in Human-Robot Interaction and Natural-Language Dialogues"
+  email: williams@cs.tufts.edu
+  disqus-shortname: williamstome
+  twitter: @williamstome
   facebook: #username
   google:
-    plus: #username
-    analytics: 
+    plus: thomasemryswilliams
+    analytics: UA-43501910-1
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  github: williamstome
+  stackoverflow: http://stackoverflow.com/users/1530111/williamstome
+  linkedin: https://www.linkedin.com/profile/view?id=119706857
   instagram: #username
   lastfm: #username
   tumblr: #username
