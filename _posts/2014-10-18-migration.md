@@ -14,9 +14,7 @@ image:
 This posts marks the first in my migration from [theaigeek.wordpress.com](theaigeek.wordpress.com) to [williamstome.github.io](williamstome.github.io). I've chosen to migrate for several reasons.
 
 ### Flexibility ###
-In wordpress, I had to use the wordpress.com dashboard for everything, which was a bit of a pain. By hosting on github pages and using jekyll, I can treat my blog like any other repository.
-
-I will also be able to use whatever theme I want, and edit it to my heart's content.
+In wordpress, I had to use the wordpress.com dashboard for everything, which was a bit of a pain. By hosting on github pages and using jekyll, I can treat my blog like any other repository. I will also be able to use whatever theme I want, and edit it to my heart's content.
 
 ### Github Presence ###
 As a computer scientist, hosting on github simply feels more appropriate than hosting on wordpress. I also do not yet have any open-source projects*, so this will give me a good chance to build up my github presence in the meantime.
