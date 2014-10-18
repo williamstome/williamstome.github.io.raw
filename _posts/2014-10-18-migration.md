@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migration
-excerpt: "his posts marks the first in my migration from [theaigeek.wordpress.com](theaigeek.wordpress.com) to [williamstome.github.io](williamstome.github.io)."
+excerpt: "This posts marks the first in my migration from wordpress to github.io."
 modified: 2014-10-18
 tags: [jekyll, blogging]
 comments: true
