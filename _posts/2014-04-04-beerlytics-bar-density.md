@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beerlytics: Bar Density
+title: "Beerlytics: Bar Density"
 excerpt: "If we only look at bars, brewpubs and restaurants, are our results the same?"
 modified: 2014-04-04
 tags: [beer, data, visualization]
@@ -12,6 +12,7 @@ image:
 ---
 
 #Recap#
+
 Last week, I presented visualizations of beer-dense neighborhoods in
 twenty American cities. I encourage those who didn't see my original
 post to 
@@ -33,6 +34,7 @@ expanded my search area in each city, to make sure I wasn't missing
 any high-density areas of sprawling cities like L.A.
 
 # Results #
+
 First, let's compare how the rankings we presented last week have
 changed:
 ## Previous Criteria ##
