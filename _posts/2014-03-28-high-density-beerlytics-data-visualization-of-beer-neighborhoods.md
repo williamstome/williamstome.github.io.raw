@@ -22,11 +22,12 @@ solution to this difficult question. Here's the result of several
 evenings of work towards answering that question:
  
 <figure>
-    <a href="http://theaigeek.files.wordpress.com/2014/03/bostonbeer.png"><img src="../images/bostonbeer.png"></a>
-    <figcaption>My original Boston Beer Map</figcaption>
+    <a href="http://theaigeek.files.wordpress.com/2014/03/bostonbeer.png"><img src="../images/maps/bostonbeer.png"></a>
+    <figcaption>My original Boston Beer Map [Interactive version](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1h5rKKLolfcBL_4W45wPDo1nxFRzySTk7HiY50Vv8+where+col1+%3E%3D+52&amp;viz=MAP&amp;h=false&amp;lat=42.36895682733851&amp;lng=-71.11746981218431&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+    </figcaption>
 </figure>
 
-[Interactive version](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1h5rKKLolfcBL_4W45wPDo1nxFRzySTk7HiY50Vv8+where+col1+%3E%3D+52&amp;viz=MAP&amp;h=false&amp;lat=42.36895682733851&amp;lng=-71.11746981218431&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+
 
 This map shows a dense beervana to the north in Davis Square (a 15
 minute walk from my apartment!) another hot spot to the southwest in
