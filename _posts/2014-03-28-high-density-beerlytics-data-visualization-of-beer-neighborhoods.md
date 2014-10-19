@@ -7,6 +7,8 @@ tags: [beer, data, visualization]
 comments: true
 image:
   feature: features/high-density-beerlytics.png
+  credit: 
+  creditlink: 
 ---
 
 I love beer. I love data. This is a dangerous combination.<br />In two
