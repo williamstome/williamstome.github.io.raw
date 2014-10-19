@@ -114,62 +114,62 @@ city, you can assign it a city-wide score.
     </figure>
 2. Philadelphia, PA: 182,093
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1PepVlo0gOPGIEQ0oOnVuzIncHK6C4Gw4wKEvaol8&amp;viz=MAP&amp;h=false&amp;lat=39.94695283665037&amp;lng=-75.13953469311252&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/philly.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1PepVlo0gOPGIEQ0oOnVuzIncHK6C4Gw4wKEvaol8&amp;viz=MAP&amp;h=false&amp;lat=39.94695283665037&amp;lng=-75.13953469311252&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/philly.png"></a>
       <figcaption>The City of Beerily Love</figcaption>
     </figure>
 3. Portland, OR: 124,470
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+17ekWY4HHeiNlMKfwA_JKQKN17IixQFAKxKEk88y2&amp;viz=MAP&amp;h=false&amp;lat=45.52369234376108&amp;lng=-122.6485676073628&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/portland.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+17ekWY4HHeiNlMKfwA_JKQKN17IixQFAKxKEk88y2&amp;viz=MAP&amp;h=false&amp;lat=45.52369234376108&amp;lng=-122.6485676073628&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/portland.png"></a>
       <figcaption>Beervana. No really, [that's what it's called](http://en.wikipedia.org/wiki/Nicknames_of_Portland,_Oregon#Beervana)</figcaption>
     </figure>
 4. Chicago, IL: 119,740
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+17FBeEDSbKdvx-WzpngGrEgLxZP7RGIHeY_Vbnf&amp;viz=MAP&amp;h=false&amp;lat=41.917635523380014&amp;lng=-87.66643403758519&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/chicago.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+17FBeEDSbKdvx-WzpngGrEgLxZP7RGIHeY_Vbnf&amp;viz=MAP&amp;h=false&amp;lat=41.917635523380014&amp;lng=-87.66643403758519&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/chicago.png"></a>
       <figcaption>Second (bar this block) City</figcaption>
     </figure>
 5. Washington, DC: 111,581
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Vmi4wjXhUOHFQ7syjk8Igd0PRKIfkEb2ExWRB4cn&amp;viz=MAP&amp;h=false&amp;lat=38.8303273829142&amp;lng=-77.03481123774816&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/dc.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Vmi4wjXhUOHFQ7syjk8Igd0PRKIfkEb2ExWRB4cn&amp;viz=MAP&amp;h=false&amp;lat=38.8303273829142&amp;lng=-77.03481123774816&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/dc.png"></a>
       <figcaption>Chocolate (stout) City</figcaption>
     </figure>
 6. Atlanta, GA: 104,684
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1QJmet-zuMIOlP0-oQ4m5qhsiHTvZ2McXRSYUpkHG&amp;viz=MAP&amp;h=false&amp;lat=33.75544142600311&amp;lng=-84.3553977640459&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/atlanta.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1QJmet-zuMIOlP0-oQ4m5qhsiHTvZ2McXRSYUpkHG&amp;viz=MAP&amp;h=false&amp;lat=33.75544142600311&amp;lng=-84.3553977640459&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/atlanta.png"></a>
       <figcaption>Hoplanta</figcaption>
     </figure>
 7. Seattle, WA: 103,337
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1_FqrITPsl7o6q8KTMeBkF16CVN4kkMXpaT2nFiLF&amp;viz=MAP&amp;h=false&amp;lat=47.6311054457076&amp;lng=-122.34569778244531&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/seattle.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1_FqrITPsl7o6q8KTMeBkF16CVN4kkMXpaT2nFiLF&amp;viz=MAP&amp;h=false&amp;lat=47.6311054457076&amp;lng=-122.34569778244531&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/seattle.png"></a>
       <figcaption>The City of Goodbeer</figcaption>
     </figure>
 8. San Diego, CA: 101,266
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1FLSTOAF_aYxK3PBgJjS2rUYWY0rJkRLunK9Z2Lp8&amp;viz=MAP&amp;h=false&amp;lat=32.734513166065085&amp;lng=-117.18877415218992&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/sd.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1FLSTOAF_aYxK3PBgJjS2rUYWY0rJkRLunK9Z2Lp8&amp;viz=MAP&amp;h=false&amp;lat=32.734513166065085&amp;lng=-117.18877415218992&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/sd.png"></a>
       <figcaption>San Diego's nickname is "America's Finest City." I'm not even going to dignify that with a parody.</figcaption>
     </figure>
 9. San Francisco, CA: 90,388
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1eGRru4kqzI16BcNWSnLrKE5KVXI7bNCda9dJ8fQO&amp;viz=MAP&amp;h=false&amp;lat=37.76487704794573&amp;lng=-122.42487047444729&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/sf.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1eGRru4kqzI16BcNWSnLrKE5KVXI7bNCda9dJ8fQO&amp;viz=MAP&amp;h=false&amp;lat=37.76487704794573&amp;lng=-122.42487047444729&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/sf.png"></a>
       <figcaption>The City That Knows How (to beer it up, apparently)</figcaption>
     </figure>
 10. Los Angeles, CA: 86,866
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1iMyPvZ-5duurLlAI7-UqiCcWLsH2p6Cvs6IEvhTG&amp;viz=MAP&amp;h=false&amp;lat=33.94991079251985&amp;lng=-118.25099376709375&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/la.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1iMyPvZ-5duurLlAI7-UqiCcWLsH2p6Cvs6IEvhTG&amp;viz=MAP&amp;h=false&amp;lat=33.94991079251985&amp;lng=-118.25099376709375&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/la.png"></a>
       <figcaption>Look at LA's map. Can you see why it doesn't have peaks like Philly or DC? Everything's so spread out. Worst. Crawl. City. Ever.</figcaption>
     </figure>
 11. Denver, CO: 85,938
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1a2PxsErOaaUfrIhPlcXup9w54QjKVtCQLRzpwwVN&amp;viz=MAP&amp;h=false&amp;lat=39.71976727666324&amp;lng=-104.98743183510402&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/denver.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1a2PxsErOaaUfrIhPlcXup9w54QjKVtCQLRzpwwVN&amp;viz=MAP&amp;h=false&amp;lat=39.71976727666324&amp;lng=-104.98743183510402&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/denver.png"></a>
       <figcaption>I'd like to go to Denver.</figcaption>
     </figure>
 12. Boston, MA: 82,527
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZEzmnh_6Bdk5JLFq_Uc3fxEZQD4xXi5gDMtypYsy&amp;viz=MAP&amp;h=false&amp;lat=42.33941320931526&amp;lng=-71.10457660540374&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/boston.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZEzmnh_6Bdk5JLFq_Uc3fxEZQD4xXi5gDMtypYsy&amp;viz=MAP&amp;h=false&amp;lat=42.33941320931526&amp;lng=-71.10457660540374&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/boston.png"></a>
       <figcaption>I live in Boston, it's awesome. So much science!</figcaption>
     </figure>
 13. Baltimore, MD: 63,851
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZBvCXB3KrfmYk2nw7-kIn4Q1qWhcMcw3Osb8iWQU&amp;viz=MAP&amp;h=false&amp;lat=39.280102425214025&amp;lng=-76.58451813163127&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/maps/baltimore.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZBvCXB3KrfmYk2nw7-kIn4Q1qWhcMcw3Osb8iWQU&amp;viz=MAP&amp;h=false&amp;lat=39.280102425214025&amp;lng=-76.58451813163127&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="../images/maps/baltimore.png"></a>
       <figcaption>Everything I know about the parts of Baltimore that are not the waterfront area, I learned from The Wire.</figcaption>
     </figure>
 
@@ -178,7 +178,7 @@ although obviously this is going to have a mild correlation with the
 size of the city, as seen below.
 
 <figure>
-  <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=931369349"><img src="images/maps/image-1.png"></a>
+  <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=931369349"><img src="../images/maps/image-1.png"></a>
   <figcaption></figcaption>
 </figure>
 
@@ -192,7 +192,7 @@ or better; it still has a lot of good beer but its spread out a little
 more (although not so much as in, e.g., Los Angeles).
 
 <figure>
-  <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=1629485000"><img src="images/maps/image-2.png"></a>
+  <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=1629485000"><img src="../images/maps/image-2.png"></a>
   <figcaption></figcaption>
 </figure>
 
