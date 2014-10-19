@@ -22,7 +22,7 @@ solution to this difficult question. Here's the result of several
 evenings of work towards answering that question:
  
 <figure>
-    <a href="http://theaigeek.files.wordpress.com/2014/03/bostonbeer.png"><img src="../images/bostonbeer.png"</a>
+    <a href="http://theaigeek.files.wordpress.com/2014/03/bostonbeer.png"><img src="../images/bostonbeer.png"></a>
     <figcaption>My original Boston Beer Map</figcaption>
 </figure>
 
