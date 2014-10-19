@@ -143,7 +143,7 @@ tiny but beer-fueled city of Burlington didn't make the list, it
 performed much better than some of the other contenders, such as
 Providence and Santa Fe.  
 
->Then there's Philadelphia.
+Then there's Philadelphia.
 <figure>
   <img src="../images/maps/philly-post1.png"/>
 </figure>
