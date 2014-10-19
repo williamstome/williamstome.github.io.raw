@@ -94,7 +94,7 @@ scaling. Click on the map for the interactive version (same with all
 the images in this post)
 
 <figure>
-  <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZEzmnh_6Bdk5JLFq_Uc3fxEZQD4xXi5gDMtypYsy&amp;viz=MAP&amp;h=false&amp;lat=42.33941320931526&amp;lng=-71.10457660540374&amp;t=1&amp;z=13&amp;l=col0&amp;y=3&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"><img src = "images/maps/newboston.png"></a>
+  <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZEzmnh_6Bdk5JLFq_Uc3fxEZQD4xXi5gDMtypYsy&amp;viz=MAP&amp;h=false&amp;lat=42.33941320931526&amp;lng=-71.10457660540374&amp;t=1&amp;z=13&amp;l=col0&amp;y=3&amp;tmplt=3&amp;hml=ONE_COL_LAT_LNG"><img src = "../images/maps/newboston.png"></a>
 </figure>
 
 If you compare this to last week, you'll see that Davis Square (the
@@ -109,7 +109,7 @@ city, you can assign it a city-wide score.
 
 1. NY, NY: 224,109
     <figure>
-      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+10KVhIpfRJRTwjZnQbv6h226E4cToKimhaFo7Wt7J&amp;viz=MAP&amp;h=false&amp;lat=40.716612130271145&amp;lng=-73.96706604258952&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src ="images/maps/nyc.png"></a>
+      <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+10KVhIpfRJRTwjZnQbv6h226E4cToKimhaFo7Wt7J&amp;viz=MAP&amp;h=false&amp;lat=40.716612130271145&amp;lng=-73.96706604258952&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src ="../images/maps/nyc.png"></a>
       <figcaption>The City That Never Sleeps (because there are too many options)</figcaption>
     </figure>
 2. Philadelphia, PA: 182,093
