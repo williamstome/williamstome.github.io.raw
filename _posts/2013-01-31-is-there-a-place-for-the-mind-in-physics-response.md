@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Is There A Place for The Mind in Physics" Response'
-excerpt: 
+excerpt: "My sister recently tweeted a link to an article entitled 'Is There A Place For The Mind In Physics'. I largely agree with the reviewer, but am quite incredulous towards some of the reviewed author's notions."
 modified: 2014-10-19
 tags: [philosophy]
 comments: true
@@ -13,8 +13,7 @@ image:
 
 My sister recently tweeted a link to an article entitled [Is There A Place For The Mind In Physics](http://www.npr.org/blogs/13.7/2013/01/29/169896128/is-there-a-place-for-the-mind-in-physics-part-i?sc=tw&amp;cc=share" target="_blank">"Is There A Place For The Mind In Physics)
 
-As I felt that I could not respond in 140 characters or less, I
-decided to post my thoughts here. I largely agree with the reviewer, but
+I largely agree with the reviewer, but
 am quite incredulous towards some of the reviewed author's
 notions. Thanks for the read, sis!
 
