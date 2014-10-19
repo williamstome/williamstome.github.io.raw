@@ -43,7 +43,7 @@ That's why I rate every beer I try and nearly every beer bar I visit,
 and post those ratings at [Ratebeer.com](http://www.ratebeer.com/user/101143/), where my
 ratings are aggregated with those of thousands of other enormous
 nerds. For example, 
-[here is](http://www.ratebeer.com/places/regions/boston/1120/21/) a
+[here](http://www.ratebeer.com/places/regions/boston/1120/21/) is a
 list of all the top rated beer spots in Boston, including their name,
 score and address. And Google has an API that lets you get GPS
 coordinates for any address... so I wrote a python program that, given
