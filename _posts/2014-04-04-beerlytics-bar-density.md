@@ -225,46 +225,33 @@ Finally, here is a list of maps for those cities we examined that have
 not yet been linked to in this article (some of which are locations
 requested by readers).
 
-1. ["Albuquerque, NM"](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NVtywUZMRsFDMRCt5wfjbB01ocGfHG4cshe-BbGv&amp;viz=MAP&amp;h=false&amp;lat=35.143102806963235&amp;lng=-106.60498796248828&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+1. [Albuquerque, NM](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NVtywUZMRsFDMRCt5wfjbB01ocGfHG4cshe-BbGv&amp;viz=MAP&amp;h=false&amp;lat=35.143102806963235&amp;lng=-106.60498796248828&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-2. [Asheville,
-NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NHP-QkApNXtwEeV-nATJscCertXLRqvl74F8tWAM&amp;viz=MAP&amp;h=false&amp;lat=35.588339972988386&amp;lng=-82.56529277043491&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+2. [Asheville, NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NHP-QkApNXtwEeV-nATJscCertXLRqvl74F8tWAM&amp;viz=MAP&amp;h=false&amp;lat=35.588339972988386&amp;lng=-82.56529277043491&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-3. [Austin,
-TX](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1zI24EVoxBbaeAQ2htmRjx_WnyLIpWF4FxqPQE5uh&amp;viz=MAP&amp;h=false&amp;lat=30.27318381831279&amp;lng=-97.75116011167461&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+3. [Austin, TX](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1zI24EVoxBbaeAQ2htmRjx_WnyLIpWF4FxqPQE5uh&amp;viz=MAP&amp;h=false&amp;lat=30.27318381831279&amp;lng=-97.75116011167461&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-4. [Bend,
-OR](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1EMsLMuVPL9nGnsDF3yOeC2M_F9SI8q-hRoAG2enF&amp;viz=MAP&amp;h=false&amp;lat=44.043973234895&amp;lng=-121.30529981975195&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+4. [Bend, OR](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1EMsLMuVPL9nGnsDF3yOeC2M_F9SI8q-hRoAG2enF&amp;viz=MAP&amp;h=false&amp;lat=44.043973234895&amp;lng=-121.30529981975195&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-5. [Boise,
-ID](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Bc1qogdrMTQKVvfw079M_7-dpRq9jFi7hHJMRqx3&amp;viz=MAP&amp;h=false&amp;lat=43.609329549101524&amp;lng=-116.2405102988496&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+5. [Boise, ID](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Bc1qogdrMTQKVvfw079M_7-dpRq9jFi7hHJMRqx3&amp;viz=MAP&amp;h=false&amp;lat=43.609329549101524&amp;lng=-116.2405102988496&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-6. [Buffalo,
-NY](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1iYdSlPRNQhZVPFYkMpeflBWvHTbBZcnWKt_ELt6q&amp;viz=MAP&amp;h=false&amp;lat=42.882016765827174&amp;lng=-78.83617535815823&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+6. [Buffalo, NY](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1iYdSlPRNQhZVPFYkMpeflBWvHTbBZcnWKt_ELt6q&amp;viz=MAP&amp;h=false&amp;lat=42.882016765827174&amp;lng=-78.83617535815823&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-7. [Burlington,
-VT](https://www.google.com/fusiontables/embedviz?q=select+col0+from+13HicpdcPFd_YtBaJ4H8wBq5BwRjoFDyw5P0qxdsc&amp;viz=MAP&amp;h=false&amp;lat=44.418363329555994&amp;lng=-73.16405502600293&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+7. [Burlington, VT](https://www.google.com/fusiontables/embedviz?q=select+col0+from+13HicpdcPFd_YtBaJ4H8wBq5BwRjoFDyw5P0qxdsc&amp;viz=MAP&amp;h=false&amp;lat=44.418363329555994&amp;lng=-73.16405502600293&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-8. [Charlotte,
-NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1W17WLY5r4CR694mMrBQoaPv651RXy762y582aDVz&amp;viz=MAP&amp;h=false&amp;lat=35.21967263885339&amp;lng=-80.76663986074277&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+8. [Charlotte, NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1W17WLY5r4CR694mMrBQoaPv651RXy762y582aDVz&amp;viz=MAP&amp;h=false&amp;lat=35.21967263885339&amp;lng=-80.76663986074277&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-9. [Dallas,
-TX](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1-DkPZVpJ06dS89y1aiKDTeoFUFeNhZa8rxKobFZO&amp;viz=MAP&amp;h=false&amp;lat=32.80601520834502&amp;lng=-96.78015560149493&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+9. [Dallas, TX](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1-DkPZVpJ06dS89y1aiKDTeoFUFeNhZa8rxKobFZO&amp;viz=MAP&amp;h=false&amp;lat=32.80601520834502&amp;lng=-96.78015560149493&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-10. [Fort Collins,
-CO](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1SDVEl2fMsIjgk43v2uoGJzxy4qg9bZVbxogwvYwP&amp;viz=MAP&amp;h=false&amp;lat=40.49310861801775&amp;lng=-105.05446990995557&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+10. [Fort Collins, CO](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1SDVEl2fMsIjgk43v2uoGJzxy4qg9bZVbxogwvYwP&amp;viz=MAP&amp;h=false&amp;lat=40.49310861801775&amp;lng=-105.05446990995557&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-11. [Kalamazoo,
-MI](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1djjhkndetX859LE-K6s-ZJNpgt16Cvi1smAfBPug&amp;viz=MAP&amp;h=false&amp;lat=42.26486093611286&amp;lng=-85.5506941158003&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+11. [Kalamazoo, MI](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1djjhkndetX859LE-K6s-ZJNpgt16Cvi1smAfBPug&amp;viz=MAP&amp;h=false&amp;lat=42.26486093611286&amp;lng=-85.5506941158003&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-12. [Louisville,
-KY](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1jyt5t0RfxHBoilqnia_tNFPO1zFSNse1lnDx8NWM&amp;viz=MAP&amp;h=false&amp;lat=38.18120630468355&amp;lng=-85.69953644920353&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+12. [Louisville, KY](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1jyt5t0RfxHBoilqnia_tNFPO1zFSNse1lnDx8NWM&amp;viz=MAP&amp;h=false&amp;lat=38.18120630468355&amp;lng=-85.69953644920353&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-13. [Portland,
-ME](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1s4lGBlbejm67_LefWBPAIlEnl7y-FPrZ1Sp4xChr&amp;viz=MAP&amp;h=false&amp;lat=43.63645880564882&amp;lng=-70.24129067265733&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+13. [Portland, ME](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1s4lGBlbejm67_LefWBPAIlEnl7y-FPrZ1Sp4xChr&amp;viz=MAP&amp;h=false&amp;lat=43.63645880564882&amp;lng=-70.24129067265733&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
-14. [Providence,
-RI](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1YgkCKpyCr9ar31t30YIH5qAwywCQRqg8I4RMGoF8&amp;viz=MAP&amp;h=false&amp;lat=41.62904905700631&amp;lng=-71.37898181873122&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+14. [Providence, RI](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1YgkCKpyCr9ar31t30YIH5qAwywCQRqg8I4RMGoF8&amp;viz=MAP&amp;h=false&amp;lat=41.62904905700631&amp;lng=-71.37898181873122&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
 15. [Santa Fe, NM](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Ga8fP0AQm-sgRfdUMvcqz2mF7xV9x8ZSQCwf5WwR&amp;viz=MAP&amp;h=false&amp;lat=35.601629219633764&amp;lng=-105.95387828300784&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 
