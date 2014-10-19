@@ -6,9 +6,9 @@ modified: 2014-10-19
 tags: [beer, data, visualization]
 comments: true
 image:
-feature: sample-image-5.jpg
-credit: WeGraphics
-creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 #Recap#
