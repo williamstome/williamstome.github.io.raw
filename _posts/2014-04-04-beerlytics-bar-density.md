@@ -200,8 +200,8 @@ Finally, here is a list of maps for those cities we examined that have
 not yet been linked to in this article (some of which are locations
 requested by readers).
 
-1. -- [Albuquerque, NM](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NVtywUZMRsFDMRCt5wfjbB01ocGfHG4cshe-BbGv&amp;viz=MAP&amp;h=false&amp;lat=35.143102806963235&amp;lng=-106.60498796248828&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
-2. -- [Asheville, NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NHP-QkApngEeV-nATJscCertXLRqvl74F8tWAM&amp;viz=MAP&amp;h=false&amp;lat=35.588339972988386&amp;lng=-82.56529277043491&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+1. [Albuquerque, NM](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NVtywUZMRsFDMRCt5wfjbB01ocGfHG4cshe-BbGv&amp;viz=MAP&amp;h=false&amp;lat=35.143102806963235&amp;lng=-106.60498796248828&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+2. [Asheville, NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NHP-QkApngEeV-nATJscCertXLRqvl74F8tWAM&amp;viz=MAP&amp;h=false&amp;lat=35.588339972988386&amp;lng=-82.56529277043491&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 3. [Austin, TX](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1zI24EVoxBbaeAQ2htmRjx_WnyLIpWF4FxqPQE5uh&amp;viz=MAP&amp;h=false&amp;lat=30.27318381831279&amp;lng=-97.75116011167461&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 4. [Bend, OR](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1EMsLMuVPL9nGnsDF3yOeC2M_F9SI8q-hRoAG2enF&amp;viz=MAP&amp;h=false&amp;lat=44.043973234895&amp;lng=-121.30529981975195&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 5. [Boise, ID](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Bc1qogdrMTQKVvfw079M_7-dpRq9jFi7hHJMRqx3&amp;viz=MAP&amp;h=false&amp;lat=43.609329549101524&amp;lng=-116.2405102988496&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
