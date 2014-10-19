@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Tom Williams
-  avatar: http://www.gravatar.com/avatar/84e519b186e8d21d770730d8720fb95f.png
+  avatar: https://en.gravatar.com/userimage/26616054/22c74d4bd03b43650720a9e84e0b6d8b.jpg?size=200
   bio: "Graduate Researcher in Human-Robot Interaction and Natural-Language Dialogues"
   email: williams@cs.tufts.edu
   disqus-shortname: williamstome
