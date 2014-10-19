@@ -6,9 +6,9 @@ modified: 2014-04-04
 tags: [beer, data, visualization]
 comments: true
 image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+feature: sample-image-5.jpg
+credit: WeGraphics
+creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 #Recap#
@@ -108,91 +108,66 @@ whole: if you sum up the scores of the top 1000 locations for each
 city, you can assign it a city-wide score.
 
 1. NY, NY: 224,109
-  <feature>
+  <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+10KVhIpfRJRTwjZnQbv6h226E4cToKimhaFo7Wt7J&amp;viz=MAP&amp;h=false&amp;lat=40.716612130271145&amp;lng=-73.96706604258952&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src ="images/nyc.png?w=165"></a>
     <figcaption>The City That Never Sleeps (because there are too many options)</figcaption>
-    </figure>
-
+  </figure>
 2. Philadelphia, PA: 182,093
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1PepVlo0gOPGIEQ0oOnVuzIncHK6C4Gw4wKEvaol8&amp;viz=MAP&amp;h=false&amp;lat=39.94695283665037&amp;lng=-75.13953469311252&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/philly.png?w=300"></a>
     <figcaption>The City of Beerily Love</figcaption>
   </figure>
-
 3. Portland, OR: 124,470
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+17ekWY4HHeiNlMKfwA_JKQKN17IixQFAKxKEk88y2&amp;viz=MAP&amp;h=false&amp;lat=45.52369234376108&amp;lng=-122.6485676073628&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/portland.png?w=300"></a>
     <figcaption>Beervana. No really, [that's what it's called](http://en.wikipedia.org/wiki/Nicknames_of_Portland,_Oregon#Beervana)</figcaption>
   </figure>
-
 4. Chicago, IL: 119,740
-  
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+17FBeEDSbKdvx-WzpnqU6GrEgLxZP7RGIHeY_Vbnf&amp;viz=MAP&amp;h=false&amp;lat=41.917635523380014&amp;lng=-87.66643403758519&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/chicago.png?w=274"></a>
     <figcaption>Second (bar this block) City</figcaption>
   </figure>
-
-
 5. Washington, DC: 111,581
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Vmi4wjXhUOHFQ7syjk8Igd0PRKIfkEb2ExWRB4cn&amp;viz=MAP&amp;h=false&amp;lat=38.8303273829142&amp;lng=-77.03481123774816&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/dc.png?w=300"></a>
-   <figcaption>Chocolate (stout) City</figcaption>
+    <figcaption>Chocolate (stout) City</figcaption>
   </figure>
-     
-
 6. Atlanta, GA: 104,684
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1QJmet-zuMIOlP0-oQ4m5qhsiHTvZ2McXRSYUpkHG&amp;viz=MAP&amp;h=false&amp;lat=33.75544142600311&amp;lng=-84.3553977640459&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/atlanta.png?w=300"></a>
     <figcaption>Hoplanta</figcaption>
   </figure>
-
 7. Seattle, WA: 103,337
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1_FqrITPsl7o6q8KTMeBkF16CVN4kkMXpaT2nFiLF&amp;viz=MAP&amp;h=false&amp;lat=47.6311054457076&amp;lng=-122.34569778244531&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/seattle.png?w=188"></a>
     <figcaption>The City of Goodbeer</figcaption>
   </figure>
-
 8. San Diego, CA: 101,266
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1FLSTOAF_aYxK3PBgJjS2rUYWY0rJkRLunK9Z2Lp8&amp;viz=MAP&amp;h=false&amp;lat=32.734513166065085&amp;lng=-117.18877415218992&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/sd.png?w=300"></a>
     <figcaption>San Diego's nickname is "America's Finest City." I'm not even going to dignify that with a parody.</figcaption>
   </figure>
-
 9. San Francisco, CA: 90,388
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1eGRru4kqzI16BcNWSnLrKE5KVXI7bNCda9dJ8fQO&amp;viz=MAP&amp;h=false&amp;lat=37.76487704794573&amp;lng=-122.42487047444729&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/sf.png?w=284"></a>
     <figcaption>The City That Knows How (to beer it up, apparently)</figcaption>
   </figure>
-
 10. Los Angeles, CA: 86,866
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1iMyPvZ-5duurLlAI7-UqiCcWLsH2p6Cvs6IEvhTG&amp;viz=MAP&amp;h=false&amp;lat=33.94991079251985&amp;lng=-118.25099376709375&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/la.png?w=300"></a>
     <figcaption>Look at LA's map. Can you see why it doesn't have peaks like Philly or DC? Everything's so spread out. Worst. Crawl. City. Ever.</figcaption>
   </figure>
-
 11. Denver, CO: 85,938
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1a2PxsErOaaUfrIhPlcXup9w54QjKVtCQLRzpwwVN&amp;viz=MAP&amp;h=false&amp;lat=39.71976727666324&amp;lng=-104.98743183510402&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/denver.png?w=300"></a>
     <figcaption>I'd like to go to Denver.</figcaption>
   </figure>
-
 12. Boston, MA: 82,527
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZEzmnh_6Bdk5JLFq_Uc3fxEZQD4xXi5gDMtypYsy&amp;viz=MAP&amp;h=false&amp;lat=42.33941320931526&amp;lng=-71.10457660540374&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/boston.png?w=257"></a>
     <figcaption>I live in Boston, it's awesome. So much science!</figcaption>
   </figure>
-
 13. Baltimore, MD: 63,851
-
   <figure>
     <a href="https://www.google.com/fusiontables/embedviz?q=select+col0+from+1ZBvCXB3KrfmYk2nw7-kIn4Q1qWhcMcw3Osb8iWQU&amp;viz=MAP&amp;h=false&amp;lat=39.280102425214025&amp;lng=-76.58451813163127&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"><img src="images/baltimore.png?w=300"></a>
     <figcaption>Everything I know about the parts of Baltimore that are not the waterfront area, I learned from The Wire.</figcaption>
@@ -202,10 +177,10 @@ This gives a metric for the amount of beer-friendly space in a city,
 although obviously this is going to have a mild correlation with the
 size of the city, as seen below.
 
-  <figure>
-    <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=931369349"><img src="images/image-1.png?w=30"></a>
-    <figcaption></figcaption>
-  </figure>
+<figure>
+  <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=931369349"><img src="images/image-1.png?w=30"></a>
+  <figcaption></figcaption>
+</figure>
 
 That being said, Portland,OR has the lowest population of the top 13,
 but has the third highest city score, and overall this may still be a
@@ -216,17 +191,17 @@ beer Mecca. But over half of New York City's top-1000 spots are blue
 or better; it still has a lot of good beer but its spread out a little
 more (although not so much as in, e.g., Los Angeles).
 
-  <figure>
-    <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=1629485000"><img src="images/image-2.png?w=300"></a>
-    <figcaption></figcaption>
-  </figure>
+<figure>
+  <a href="https://docs.google.com/spreadsheets/d/1QH0e6Zv7Q1l1L-aSi7ulRc8cvabTENw_x7dtCNTS3ZM/gviz/chartiframe?oid=1629485000"><img src="images/image-2.png?w=300"></a>
+  <figcaption></figcaption>
+</figure>
 
 Finally, here is a list of maps for those cities we examined that have
 not yet been linked to in this article (some of which are locations
 requested by readers).
 
-1. [Albuquerque, NM](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NVtywUZMRsFDMRCt5wfjbB01ocGfHG4cshe-BbGv&amp;viz=MAP&amp;h=false&amp;lat=35.143102806963235&amp;lng=-106.60498796248828&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
-2. [Asheville, NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NHP-QkApNXtwEeV-nATJscCertXLRqvl74F8tWAM&amp;viz=MAP&amp;h=false&amp;lat=35.588339972988386&amp;lng=-82.56529277043491&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+1. -- [Albuquerque, NM](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NVtywUZMRsFDMRCt5wfjbB01ocGfHG4cshe-BbGv&amp;viz=MAP&amp;h=false&amp;lat=35.143102806963235&amp;lng=-106.60498796248828&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
+2. -- [Asheville, NC](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1NHP-QkApNXtwEeV-nATJscCertXLRqvl74F8tWAM&amp;viz=MAP&amp;h=false&amp;lat=35.588339972988386&amp;lng=-82.56529277043491&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 3. [Austin, TX](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1zI24EVoxBbaeAQ2htmRjx_WnyLIpWF4FxqPQE5uh&amp;viz=MAP&amp;h=false&amp;lat=30.27318381831279&amp;lng=-97.75116011167461&amp;t=1&amp;z=12&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 4. [Bend, OR](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1EMsLMuVPL9nGnsDF3yOeC2M_F9SI8q-hRoAG2enF&amp;viz=MAP&amp;h=false&amp;lat=44.043973234895&amp;lng=-121.30529981975195&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
 5. [Boise, ID](https://www.google.com/fusiontables/embedviz?q=select+col0+from+1Bc1qogdrMTQKVvfw079M_7-dpRq9jFi7hHJMRqx3&amp;viz=MAP&amp;h=false&amp;lat=43.609329549101524&amp;lng=-116.2405102988496&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG)
