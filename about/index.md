@@ -10,6 +10,5 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-# What the blog?
-I'm a graduate student in the Tufts Human-Robot Interaction Lab. This blog is my way of sharing in an accessible way my research, my field of study, and my pet projects.
+My name is Tom Williams, and I'm a PhD student in the Tufts Human-Robot Interaction Lab. My research sits at the intersection of Natural Language Dialogues, Artificial Intelligence, and Human-Robot Interaction. This blog is my way of sharing in an accessible way my research, my field of study, and my pet projects.
 
