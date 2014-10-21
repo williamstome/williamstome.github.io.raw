@@ -11,4 +11,5 @@ image:
 ---
 
 # What the blog?
-I'm a graduate student in the Tufts Human-Robot Interaction Lab.
+I'm a graduate student in the Tufts Human-Robot Interaction Lab. This blog is my way of sharing in an accessible way my research, my field of study, and my pet projects.
+
