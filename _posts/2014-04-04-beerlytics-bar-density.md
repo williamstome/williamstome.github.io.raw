@@ -35,7 +35,9 @@ any high-density areas of sprawling cities like L.A.
 
 First, let's compare how the rankings we presented last week have
 changed:
+
 ## Previous Criteria ##
+
 Considering all beer-related locations, we produced the following list
 of locations in our previous post:
 
