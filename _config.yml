@@ -31,7 +31,7 @@ owner:
   bio: "Graduate Researcher in Human-Robot Interaction and Natural-Language Dialogues"
   email: williams@cs.tufts.edu
   disqus-shortname: williamstome
-  twitter: williamstome
+  twitter: 
   facebook: #username
   google:
     plus: thomasemryswilliams
@@ -41,7 +41,7 @@ owner:
     ad-slot: 
   bing-verify: 
   github: williamstome
-  stackoverflow: http://stackoverflow.com/users/1530111/williamstome
+  stackoverflow: 1530111/williamstome
   linkedin: https://www.linkedin.com/profile/view?id=119706857
   instagram: #username
   lastfm: williamstome
@@ -50,6 +50,8 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
+  mendeley: tom-williams23
+  scholar: qg_aiScAAAAJ
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
