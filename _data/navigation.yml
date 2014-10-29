@@ -6,5 +6,8 @@
 - title: Posts
   url: /posts/
 
-- title: Academic Site
+- title: RSS
+  url: /feed.xml
+
+- title: Author
   url: http://hrilab.tufts.edu/~twilliam/
