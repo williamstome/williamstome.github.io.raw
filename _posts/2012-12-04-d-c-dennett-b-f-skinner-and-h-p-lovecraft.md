@@ -6,7 +6,7 @@ modified: 2014-10-19
 tags: [lovecraft, philosophy]
 comments: true
 image:
-  feature: sample-image-5.jpg
+  feature: features/skinnerdennetlovecraft.png
   credit: WeGraphics, Wikimedia, nndb.com, news.stanford.com
 ---
 
