@@ -7,8 +7,7 @@ tags: [lovecraft, philosophy]
 comments: true
 image:
   feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: WeGraphics, Wikimedia, nndb.com, news.stanford.com
 ---
 
 Today was my last lecture in the "Philosophical Foundations of Cognitive Science"
