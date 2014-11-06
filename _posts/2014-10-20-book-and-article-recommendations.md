@@ -9,6 +9,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 date: 2014-10-20
+comments: true
 ---
 
 From time to time, people ask me for book recommendations pertaining
