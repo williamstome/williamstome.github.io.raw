@@ -15,7 +15,7 @@ From time to time, people ask me for book recommendations pertaining
 to my research area (Natural Language Dialogue meets Robotics meets
 Artificial Intelligence). Unfortunately, I rarely have a satisfying
 answer to this question, as I don't actually know of any books that
-sit at this intersection of fields. Everything I know about my
+sit at this precise intersection of fields. Everything I know about my
 research area I learned by reading conference papers and journal
 articles; if there are books on the topic, I'd love to read them, and
 I should be reading them, but unfortunately I'm just not aware of the
@@ -138,7 +138,7 @@ and other problems are brand new.
 
 # Books
 
-The three books I'd recommend are much broader in scope. 
+The four books I'd recommend are much broader in scope. 
 
 ## Godel, Escher, Bach
 
@@ -182,6 +182,23 @@ models of various mental processes: episodic memory,
 categorization, decision making, psycholinguistics, scientific
 explanation, etc. It's an invaluable resource for someone
 interested in cognitive science (well, it's a $70 resource).
+
+## Natural Language Understanding and Pragmatics ##
+
+If you're interested in learning about my specific research area, I'd
+recommend Georgia M. Green's [Natural Language Understanding and
+Pragmatics](http://www.amazon.com/Pragmatics-Language-Understanding-Tutorial-Cognitive/dp/080582166X),
+for so many reasons. This little book is only around 150 pages, and
+will cost you around $20 on Amazon. Now that might sound like a high
+cost-per-page ratio but I really can't reccommend this book strongly
+enough. It's an accessible, informative, concise, and well-organized
+introduction to the various topics of import to my main field of
+study: pragmatic analysis. While it contains no algorithms or even
+much in the way of discussion thereof, this is an incredibly useful
+little book that has gotten me excited with lots of new ideas, despite
+the fact that it's 20 years old. I would recommend it to both
+academics and lay persons alike: it's short, it's sweet, it's
+fascinating.  
 
 # Conclusions
 Those are my suggestions! I would love to hear others' suggestions for
