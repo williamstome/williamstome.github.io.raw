@@ -6,9 +6,9 @@ modified: 2014-12-13
 tags: [beer, data, visualization]
 comments: true
 image:
-  feature: sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: features/philly_beer.png
+  credit: Benjamin L. Haas
+  creditlink: http://www.flickr.com/photos/benjaminlhaas/3343152090
 ---
 
 # The Data
