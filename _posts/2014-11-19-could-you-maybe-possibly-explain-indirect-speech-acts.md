@@ -5,7 +5,7 @@ modified: 2014-10-19
 excerpt: "My work in the human-robot interaction laboratory focuses on making dialogue between humans and robots as *natural* as possible."
 tags: [human-robot interaction, natural language, dialog, robotics]
 image: 
-  feature: pragmatics.png
+  feature: features/pragmatics.png
 date: 2014-11-19
 comments: true
 ---
