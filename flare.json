@@ -1,0 +1,110 @@
+{
+    "name": "All Taps",
+    "children": [
+        {
+            "name": "Belgian-Style Ales",
+            "children": [
+                {"name": "Belgian Ale", "size": 44},
+                {"name": "Abbey Dubbel", "size": 13},
+                {"name": "Abbey Tripel", "size": 39},
+                {"name": "Abt/Quadrupel", "size": 5},
+                {"name": "Belgian Strong Ale", "size": 34},
+                {"name": "Saison", "size": 61},
+                {"name": "Other (<=3)", "size": 3}
+            ]
+        },   
+        {
+            "name": "Sour Beers",
+            "children": [
+                {"name": "Berliner Weisse", "size": 13},
+                {"name": "Lambic (Fruit)", "size": 14},
+                {"name": "Lambic (Geuze)", "size": 6},
+                {"name": "Sour Red/Brown", "size": 16},
+                {"name": "Sour/Wild Ale", "size": 15},
+                {"name": "Other (<=3)", "size": 1}
+            ]
+        },
+        {
+            "name": "Anglo-American Ales",
+            "children": [
+                {"name": "India Pale Ale (IPA)", "size": 203},
+                {"name": "Imperial IPA", "size": 82},
+                {"name": "Session IPA", "size": 45},
+                {"name": "American Pale Ale", "size": 77},
+                {"name": "Altbier", "size": 7},
+                {"name": "Amber Ale", "size": 14},
+                {"name": "American Strong Ale", "size": 30},
+                {"name": "Barley Wine", "size": 11},
+                {"name": "Brown Ale", "size": 18},
+                {"name": "Cream Ale", "size": 8},
+                {"name": "Golden / Blond Ale", "size": 7},
+                {"name": "Irish Ale", "size": 4},
+                {"name": "Kolsch", "size": 5},
+                {"name": "Mild Ale", "size": 12},
+                {"name": "Premium Bitter/ESB", "size": 18},
+                {"name": "Scotch Ale", "size": 10},
+                {"name": "Bitter", "size": 9},
+                {"name": "Other (<=3)", "size": 7}
+            ]
+        },
+        {
+            "name": "Stouts and Porters",
+            "children": [
+                {"name": "Stout", "size": 35},
+                {"name": "Imperial Stout", "size": 53},
+                {"name": "Sweet Stout", "size": 38},
+                {"name": "Dry Stout", "size": 36},
+                {"name": "Porter", "size": 46},
+                {"name": "Imperial Porter", "size": 6},
+                {"name": "Black IPA", "size": 20},
+                {"name": "Other (<=3)", "size": 4}
+            ]
+        },
+        {
+            "name": "Wheat Beer",
+            "children": [
+                {"name": "Belgian White", "size": 88},
+                {"name": "Dunkelweizen", "size": 8},
+                {"name": "Hefeweizen", "size": 23},
+                {"name": "Grodz./Gose/Licht.", "size": 9},
+                {"name": "Weizen Bock", "size": 11},
+                {"name": "Wheat Ale", "size": 23}
+            ]
+        },
+        {
+            "name": "Lager",
+            "children": [
+                {"name": "Oktoberfest/Marzen", "size": 105},
+                {"name": "Amber/Vienna Lager", "size": 13},
+                {"name": "Dortmnunder/Helles", "size": 23},
+                {"name": "Pale Lager", "size": 51},
+                {"name": "Schwarzbier", "size": 5},
+                {"name": "Premium Lager", "size": 4},
+                {"name": "Pilsener", "size": 40},
+                {"name": "Czech Pilsner", "size": 9},
+                {"name": "Imperial Pils", "size": 7},
+                {"name": "Doppelbock", "size": 8},
+                {"name": "Heller Bock", "size": 6},             
+                {"name": "Other (<=3)", "size": 8}
+            ]
+        },
+        {
+            "name": "Non-Beer",
+            "children": [
+                {"name": "Cider", "size": 72},
+                {"name": "Other (<=3)", "size": 3}
+            ]
+        },
+        {
+            "name": "Other",
+            "children": [
+                {"name": "Spice/Herb/Veg.", "size": 215},
+                {"name": "Fruit Beer/Radler", "size": 56},
+                {"name": "Specialty Grain", "size": 12},
+                {"name": "Traditional Ale", "size": 12},
+                {"name": "Smoked", "size": 6},
+                {"name": "Unknown", "size": 29}
+            ]
+        }
+    ]
+}
