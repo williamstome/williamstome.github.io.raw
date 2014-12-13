@@ -6,9 +6,9 @@ modified: 2014-10-19
 tags: [philosophy]
 comments: true
 image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: features/brainphysics.png
+  credit: Marvin (PA)
+  creditlink: https://www.flickr.com/photos/mscolly/145052885/in/photolist-dPraP-2ofFHP-4oGsst-9HurQu-a9u4iM-2p7jC-sqEag-2wqRw-85RyN9-8uEpA7-sSHh-7Ddq1u-3gi2HQ-4VWrVN-hQijTp-69o7jd-avju3o-m9ma7-mci-5U57VE-tiumf-hRL5sR-iiAJ7K-bsQEBR-6dMnwX-e1LDHU-qz4rW-dRuyLN-e4MepZ-kZZGgB-EBWj1-eFo6RF-4qeYcY-6Cb7H-6JKTqE-5TZJd6-v9wJQ-ES5xL-eFud3b
 ---
 
 My sister recently tweeted a link to an article entitled [Is There A Place For The Mind In Physics](http://www.npr.org/blogs/13.7/2013/01/29/169896128/is-there-a-place-for-the-mind-in-physics-part-i?sc=tw&amp;cc=share" target="_blank">"Is There A Place For The Mind In Physics)
