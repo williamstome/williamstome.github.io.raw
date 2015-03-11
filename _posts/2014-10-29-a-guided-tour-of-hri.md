@@ -39,7 +39,7 @@ structure:
     * Natural Behavior
     * Natural Appearance
 * Section 3: Ethical Considerations: What factors must be considered in ensuring the ethical behavior and usage of a robot?
-    * Robot on the battlefield
+    * [Robot on the battlefield](http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/)
     * Robot in the bedroom
     * Robots at work
     * Home, Hospital, and School
