@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Guided Tour of HRI"
-modified: 2014-10-29
+modified: 2015-03-11
 categories: 
 excerpt: "In a series of blog posts, I'd like to discuss some of the big topics in HRI. As I add new posts in the series, I will link to them on this page."
 tags: [hri, robotics]
