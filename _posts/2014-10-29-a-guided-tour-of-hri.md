@@ -36,6 +36,7 @@ structure:
     * What is HRI?
 * Section 2: Natural Interaction: What factors must be considered in making a robot natural to interact with?
     * Natural Communication
+        * [Indirect Speech Act Understanding](http://williamstome.github.io//could-you-maybe-possibly-explain-indirect-speech-acts/)
     * Natural Behavior
     * Natural Appearance
 * Section 3: Ethical Considerations: What factors must be considered in ensuring the ethical behavior and usage of a robot?
