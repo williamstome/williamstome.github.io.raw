@@ -36,3 +36,4 @@ All four of these are types of questions which I feel substantially extend the m
 
 One final caveat: I'm still not entirely sure how to differentiate between what should be a homework problem and what should be a test problem. I'm anticipating that test material will be a combination of homework categories 1-3 and the types of questions asked on quizzes. Time will tell!
 
+
