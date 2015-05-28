@@ -6,7 +6,8 @@ excerpt: "A major part of GIFT training has been learning various active learnin
 tags: [ai, teaching, pedagogy]
 image:
   feature: features/rhythm.png
-  credit: https://www.flickr.com/photos/furanda/
+  credit: Furanda
+  creditlink: https://www.flickr.com/photos/furanda/
 date: 2015-05-27
 comments: true
 ---
