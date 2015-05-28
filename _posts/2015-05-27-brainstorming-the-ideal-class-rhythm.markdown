@@ -25,7 +25,7 @@ A major part of GIFT training has been learning various active learning strategi
 
 ## After Class ##
 
-   In addition to the readings necessary for class *n+1*, students will of course have regular homework assignments. I see being assigned on a weekly basis (meaning no homework beyond reading between Tuesday and Thursday), and falling into four categories:
+   In addition to the readings necessary for class *n+1*, students will of course have regular homework assignments. I see these being assigned on a weekly basis (meaning no homework beyond reading between Tuesday and Thursday), and falling into four categories:
 
 1. essay questions asking students to connect material to topics from previous units,
 1. essay questions asking students to brainstorm extensions to algorithms and heuristics in order to account for nuances of new problems,
