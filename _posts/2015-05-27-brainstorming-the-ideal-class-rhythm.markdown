@@ -25,7 +25,14 @@ A major part of GIFT training has been learning various active learning strategi
 
 ## After Class ##
 
-   In addition to the readings necessary for class *n+1*, students will of course have regular homework assignments. I see being assigned on a weekly basis (meaning no homework beyond reading between Tuesday and Thursday), and falling into four categories: (1) essay questions asking students to connect material to topics from previous units, (2) essay questions asking students to brainstorm extensions to algorithms and heuristics in order to account for nuances of new problems, (3) mathematically substantial proofs and derivations, and (4) coding assignments requiring students to actually implement the algorithms they've learned about. All four of these are types of questions which I feel substantially extend the material covered in class; they don't just check whether students know the facts, but assess the degree to which they're able to apply, extend and analyze the course material.
+   In addition to the readings necessary for class *n+1*, students will of course have regular homework assignments. I see being assigned on a weekly basis (meaning no homework beyond reading between Tuesday and Thursday), and falling into four categories:
+
+1. essay questions asking students to connect material to topics from previous units,
+1. essay questions asking students to brainstorm extensions to algorithms and heuristics in order to account for nuances of new problems,
+1. mathematically substantial proofs and derivations, and
+1. coding assignments requiring students to actually implement the algorithms they've learned about.
+
+All four of these are types of questions which I feel substantially extend the material covered in class; they don't just check whether students know the facts, but assess the degree to which they're able to apply, extend and analyze the course material.
 
 One final caveat: I'm still not entirely sure how to differentiate between what should be a homework problem and what should be a test problem. I'm anticipating that test material will be a combination of homework categories 1-3 and the types of questions asked on quizzes. Time will tell!
 
