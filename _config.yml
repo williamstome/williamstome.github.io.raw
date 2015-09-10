@@ -31,7 +31,7 @@ owner:
   bio: "Graduate Researcher in Human-Robot Interaction and Natural-Language Dialogues"
   email: williams@cs.tufts.edu
   disqus-shortname: williamstome
-  twitter: 
+  twitter: williamstome
   facebook: #username
   google:
     plus: 
@@ -52,6 +52,7 @@ owner:
   dribbble: #username
   mendeley: tom-williams23
   scholar: qg_aiScAAAAJ
+  researchgate: Tom_Williams19
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
