@@ -417,6 +417,59 @@ $button-size: 1.5rem;
 		text-decoration: underline;
 	}
 }
+
+
+.meta-wrapper{
+		border: 1px solid #C9C6C3;
+		border-width: 1px 0;
+		color: #666;
+		font-size: 12px;
+		line-height: 20px;
+		margin: 0 0 20px;
+		padding: 1px 0;
+		text-transform: uppercase;
+}
+
+.inline{display:inline}
+
+.tag_list_in_post{
+	border-left: 1px solid #bbb;
+	display: inline;
+	margin-left: 15px;
+	padding: 0 0 0 10px;
+}
+
+.tags{
+	float: right;
+	width: 280px
+}
+
+.tag_list{
+	margin-left: 52px;
+	padding-bottom: 20px;
+}
+
+.tag_list_item{
+	line-height: 1;
+	list-style: none;
+	margin: 0;
+}
+.tag_list_link{
+	border-left: 1px solid #ccc;
+	color: #888;
+	font-size: 14px;
+	font-variant: small-caps;
+	margin: 0;
+	padding: 0 6px;
+	text-transform: lowercase;
+}
+.tag_list_link:first-child{
+	border: 0
+}
+.tag_list_link:hover{
+	color: #444;
+}
+
 .toc {
 	display: none;
 	font-size: 95%;
