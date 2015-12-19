@@ -19,7 +19,7 @@ Happy Holidays!
 This year has marked large changes in the HRI Lab: this semester, our
 lab lost one member (to graduation! good for him, sad for us) and
 gained **eight**. Six new grad students started this semester, one
-more just joined an will be starting next month, and we acquired a new
+more just joined and will be starting next month, and we acquired a new
 staff programmer.  
 <br/>
 Anyone who knows me well knows that I love to sing. It should thus be
@@ -33,7 +33,8 @@ on drums, our postdoc on guitar, and myself on vocals) would perform a
 few songs. So, I figured, as long as I was singing, there might as
 well be some a cappella action thrown in too!  
 <br/>
-I thus put together an arrangement of holiday carols,
+I thus put together an a cappella arrangement of holiday carols for my
+two new singing labmates and I,
 themed around an obviously fictitious scenario in which our lab has to
 pull together a demo for a funding agency and things go horribly
 wrong.  
