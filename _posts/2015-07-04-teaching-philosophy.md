@@ -36,7 +36,7 @@ Unfortunately, many computer science classes fall victim to the mode
 of thinking criticized by Fellows & Parberry in the quote above. These
 classes proceed 
 linearly through the chosen course material, presenting each algorithm
-or technique as an isolated tool to be added to the student&rsquo;s toolbox.
+or technique as an isolated tool to be added to the student's toolbox.
 
 
 In contrast, my goal is for students to be able to look at any
@@ -55,7 +55,7 @@ on course material through both expository and persuasive writing.
 This reflects my belief that development of writing skills is crucial
 for computer science students.
 While some tout the ability to break down problems computationally as the
-&ldquo;new literacy,&rdquo; students will need to master &ldquo;traditional literacy&rdquo;
+"new literacy,"; students will need to master &ldquo;traditional literacy&rdquo;
 regardless of whether they go on to become researchers, educators,
 programmers, or elect not to continue in computer science at all. 
 
