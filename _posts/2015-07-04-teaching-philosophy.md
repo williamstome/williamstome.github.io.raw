@@ -55,7 +55,7 @@ on course material through both expository and persuasive writing.
 This reflects my belief that development of writing skills is crucial
 for computer science students.
 While some tout the ability to break down problems computationally as the
-"new literacy,"; students will need to master &ldquo;traditional literacy&rdquo;
+"new literacy," students will need to master &ldquo;traditional literacy&rdquo;
 regardless of whether they go on to become researchers, educators,
 programmers, or elect not to continue in computer science at all. 
 
@@ -63,20 +63,22 @@ In addition to encouraging deep reflection through structured writing,
 I also strive to promote student understanding by providing concrete
 groundings to theoretical concepts whenever possible. In the classroom
 this is effected through exercises which demystify
-concepts by showing them to be straightforward and intuitive. For example, in the Artificial
-Intelligence course I will be co-designing and co-teaching, students will
-learn about Constraint Satisfaction Problems (CSP) by designing crossword
+concepts by showing them to be straightforward and intuitive. For
+example, in the Artificial 
+Intelligence course I co-designed and co-taught, students 
+learned about Constraint Satisfaction Problems (CSP) by designing crossword
 puzzles and then analyzing the strategies they used in that
-process. Students will learn about approximate inference by playing a novel
-take on Clue which simulates Gibbs sampling. Outside the
-classroom, I assign students frequent programming assignments which provide
+process. Students learned about approximate inference by playing a novel
+take on Clue which simulated Gibbs sampling. Outside the
+classroom, I try to design programming assignments which provide
 concrete computational groundings without burdening students with
 busywork, i.e., coding for coding&rsquo;s sake. For example, after the
-in-class crossword puzzle exercise, students will need to implement
+in-class crossword puzzle exercise, students were asked to to implement
 CSP heuristics to improve the performance of an automatic crossword
 creator. 
 
-In designing programming assignments, I try to find ways to apply
+In designing both programming assignments and in-class exercisese, I
+try to find ways to apply 
 course material to domains beyond the sciences. Skills such as
 computational modeling are becoming important in suprisingly diverse areas, from
 literary analysis and sociology to history and

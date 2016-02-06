@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Guided Tour of HRI"
-modified: 2015-03-11
+modified: 2016-02-05
 categories: 
 excerpt: "In a series of blog posts, I'd like to discuss some of the big topics in HRI. As I add new posts in the series, I will link to them on this page."
 tags: [hri, robotics]
@@ -36,8 +36,9 @@ structure:
     * What is HRI?
 * Section 2: Natural Interaction: What factors must be considered in making a robot natural to interact with?
     * Natural Communication
-       * [Indirect Speech Act Understanding](http://williamstome.github.io//could-you-maybe-possibly-explain-indirect-speech-acts/)
+        * [Indirect Speech Act Understanding](http://williamstome.github.io//could-you-maybe-possibly-explain-indirect-speech-acts/)
     * Natural Behavior
+       * [Uncanny Actions](http://williamstome.github.io/is-robot-telepathy-acceptable/)
     * Natural Appearance
 * Section 3: Ethical Considerations: What factors must be considered in ensuring the ethical behavior and usage of a robot?
     * [Robot on the battlefield](http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/)
