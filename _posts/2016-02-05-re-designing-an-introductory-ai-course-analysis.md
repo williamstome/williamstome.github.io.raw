@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "(Re)designing an Introductory AI Course: Post-Semester Analysis"
-modified: 2015-05-07
+modified: 2016-02-05
 excerpt: "IN WHICH I compare my planned AI course to reality."
 tags: [ai, teaching, pedagogy]
 image:
