@@ -145,6 +145,8 @@ possible problems with human-robot love.
 ![Be Right Back](../images/laswr/black-mirror.png)
 <br/><br/>
 
+### Black Mirror ###
+
 Perhaps the best example comes from *Be Right Back*, Season 2 Episode 1 of the
 Channel 4 / Netflix show *Black Mirror*. In that episode, a woman (Martha, played
 by Hayley Atwell) finds herself
@@ -163,6 +165,8 @@ Ash is able to coerce Martha into keeping it around.
 Because Martha chooses to devote her emotional
 energy to the android rather than seeking out relationships with other
 people the robot can be seen as an enabler for mental harm. 
+
+### Her ###
 
 <br/><br/>
 ![Her](../images/laswr/her.jpg)
@@ -191,6 +195,8 @@ emotionally and psychologically damaging.
 I'll be interested to see in a few decades whether this
 view will be taken as a legitimate concern or merely as
 prejudice against one's choice of partner.  
+
+### Master of None ###
 
 <br/><br/>
 ![Paro](http://33.media.tumblr.com/96962aecee6cc03dfe9430e14849b1b8/tumblr_nxkbz966FX1qjcyqno1_500.gif)  
@@ -293,6 +299,8 @@ sex robots have been showing up more and more in popular culture. The
 artificially intelligent agents discussed above (i.e., those seen in
 *Her* and *Black Mirror*) are good examples, but of course the best
 recent example is *Ex Machina*'s Ava. 
+
+### Ex Machina ###
 
 <br/><br/>
 ![Ex Machina](../images/laswr/exmachina.jpg)
