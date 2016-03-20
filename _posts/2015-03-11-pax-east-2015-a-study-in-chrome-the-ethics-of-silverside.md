@@ -25,7 +25,7 @@ While the comic is pretty short, it manages to touch on several issues that are 
 
 In our panel, my labmates Willie, Gordon, and I each talked about one such issue. I talked about [whether robots should be allowed to wield guns autonomously](http://williamstome.github.io//should-fully-autonomous-weapons-systems-be-banned/), Willie talked about the ethics of robots and sex and relationships in general, and Gordon talked about the general moral status of robots. 
 
-*\<Disclaimer\> While the three of us do research in the HRI Lab, our talk was given as private citizens, and we did not announce our shared affiliation during our talk; what we said in the panel constituted our own views, and doesn't reflect the views of our employer or funding agencies. \</Disclaimer\>*
+**\<Disclaimer\> While the three of us do research in the HRI Lab, our talk was given as private citizens, and we did not announce our shared affiliation during our talk; what we said in the panel constituted our own views, and doesn't reflect the views of our employer or funding agencies. \</Disclaimer\>**
 
 For each issue, we first showed panels from the comic that illustrated how that issue is portrayed in Silverside, 
 then discussed that issue with respect to the current state of the art in robotics,

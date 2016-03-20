@@ -14,7 +14,7 @@ comments: true
 
 **\<Disclaimer\> All discussion in this blog post are, as usual, my
 thoughts alone and don't reflect the views of my lab, advisor,
-university, or funding agencies. \<\/Disclaimer\>**
+university, or funding agencies. \</Disclaimer\>**
 
 In his 2007 book *Love and Sex with Robots*, David Levy paints a
 picture of a world in which romantic and sexual relations with robots
@@ -69,9 +69,10 @@ robots is deeply problematic.
 ## The Science of Human-Robot Love ##
 
 One outspoken critic of social robots is my advisor, Matthias
-Scheutz. In his 2011 chapter of ["Robot Ethics"](http://www.amazon.com/Robot-Ethics-Implications-Intelligent-Autonomous/dp/026252600X), entitled "The Inherent
-Dangers of Unidirectional 
-Emotional Bonds between Humans and Social Robots", Scheutz argues that
+Scheutz. In his 2011 chapter of
+["Robot Ethics"](http://www.amazon.com/Robot-Ethics-Implications-Intelligent-Autonomous/dp/026252600X),
+entitled *The Inherent Dangers of Unidirectional 
+Emotional Bonds between Humans and Social Robots*, Scheutz argues that
 social robots may inflict *emotional harm* on their users.
 People are incredibly quick to ascribe agency and mental states to
 robots as if they were alive, allowing robots to affect people in the
@@ -100,12 +101,12 @@ unethical. Sparrow argues that robot pets are grounded in deception
 and that in order to benefit from a robot pet, one must
 "systematically delude themselves 
 regarding the real nature of their relation with the animal," an act
-which he deems "morally deplorable". 
+which he deems "morally deplorable."
 
 Sparrow goes on to argue that this gap in reality will be even more
 pronounced in the case of humanoid robots, as such robots will be even
 more likely to provoke feelings such as love and respect, which, when
-based on illusion, would once again be "morally deplorable". Says
+based on illusion, would once again be "morally deplorable." Says
 Sparrow, "It would be wrong to design android
 robots with the intention of generating such responses."
 
@@ -140,9 +141,9 @@ A number of recent pieces of science fiction have also delved into the
 possible problems with human-robot love. 
 **(Be prepared to skip this section if you want to avoid spoilers)**
 
-![Be Right Back](images/laswr/black-mirror.png)
+![Be Right Back](../images/laswr/black-mirror.png)
 
-Perhaps the best example comes from "Be Right Back", Season 2 Episode 1 of the
+Perhaps the best example comes from *Be Right Back*, Season 2 Episode 1 of the
 Channel 4 / Netflix show *Black Mirror*. In that episode, a woman (Martha, played
 by Hayley Atwell) finds herself
 widowed, and is suggested an app to help her grieve: when provided
@@ -161,7 +162,7 @@ Because Martha chooses to devote her emotional
 energy to the android rather than seeking out relationships with other
 people the robot can be seen as an enabler for mental harm. 
 
-~[Her](images/laswr/her.jpg)
+~[Her](../images/laswr/her.jpg)
 
 In a similar vein, we have one of my favorite movies,
 *Her*. Technically, *Her* 
@@ -184,12 +185,12 @@ In both cases, the relationship with the artificial agent is shown as
 emotionally and psychologically damaging.
 I'll be interested to see in a few decades whether this
 view will be taken as a legitimate concern or merely as
-prejudice against one's choice of partner.
+prejudice against one's choice of partner.  
 
-![Paro](http://33.media.tumblr.com/96962aecee6cc03dfe9430e14849b1b8/tumblr_nxkbz966FX1qjcyqno1_500.gif)
+![Paro](http://33.media.tumblr.com/96962aecee6cc03dfe9430e14849b1b8/tumblr_nxkbz966FX1qjcyqno1_500.gif)  
 
-On a different note, we have "Old People", Season One, Episode Eight
-of Aziz Ansari's hilarious Netflix show, "Master of None". The B-plot
+On a different note, we have *Old People*, Season One, Episode Eight
+of Aziz Ansari's hilarious Netflix show, *Master of None*. The B-plot
 for the episode revolves around Paro the robot seal (which you can [buy
 for a cool 7k](http://www.parorobots.com/photogallery.asp)), a
 real-life therapy robot which provides companionship to the elderly. 
@@ -261,7 +262,7 @@ It's important to note that the concerns over sex robots extend beyond
 robots designed for sex. Recently, the robotics company Aldebaran
 released a new robot, Pepper, shown below. 
 
-![Pepper](images/laswr/pepper.jpg)
+![Pepper](../images/laswr/pepper.jpg)
 
 There's nothing inherently
 sexual about Pepper. At the most, you could point out that there's a
@@ -284,7 +285,7 @@ artificially intelligent agents discussed above (i.e., those seen in
 *Her* and *Black Mirror*) are good examples, but of course the best
 recent example is *Ex Machina*'s Ava. 
 
-![Ex Machina](images/laswr/exmachina.jpg)
+![Ex Machina](../images/laswr/exmachina.jpg)
 
 In *Ex Machina*, Caleb (also played by Domhnall Gleeson) is brought to
 a secluded woodland estate, ostensibly  to help "test" a new android,
@@ -318,8 +319,8 @@ society. However, there has been little research thus far into
 peoples' views on the topic. Recently, I helped my
 advisor and one of my labmates conduct
 the first extensive survey into people's views on sex robots, the
-results of which were the focus of a recent paper ("Are We Ready for
-Sex Robots?").
+results of which were the focus of a recent paper (*Are We Ready for
+Sex Robots?*).
 
 In this study, we asked participants questions in three main
 categories: what they believe to be the capabilities of
