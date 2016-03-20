@@ -379,7 +379,7 @@ two-thirds of women said they would not.
 You'll note that the above results are all gender-based. One would
 think that one would see age effects as well; but in fact, only one
 significant age effect was found: Millenials rated it less appropriate
-to use robots /instead of prostitutes/ than did older participants.
+to use robots *instead of prostitutes* than did older participants.
 
 These results give a brief look into society's views on sex
 robots. The Human-Robot Interaction community will need to further
