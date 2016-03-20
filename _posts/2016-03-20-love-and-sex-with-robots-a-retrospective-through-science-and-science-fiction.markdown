@@ -23,11 +23,11 @@ is not only possible, but inevitable.
 
 In this blog post, I'll provide some of my thoughts on Levy's book,
 and provide some commentary from recent science and science
-fiction on the issues Levy raises (or fails to raise). While this
-topic is of great interest to me, and a topic my lab does some
-research on, it's not one I myself research, which is to say, I'm new
-to the topic and am eager to hear counter-arguments to any of the
-positions I take!  
+fiction on the issues Levy raises (or fails to raise). While robot
+ethics is of great interest to me, and a topic my lab actively researches
+research on, it's not one I myself have published on, which is to say,
+I'm new to the topic and am eager to hear counter-arguments to any of
+the positions I take!  
 
 Levy's book is broken into two main sections, regarding love and sex
 respectively. I'll deal with each section separately. (Before these
