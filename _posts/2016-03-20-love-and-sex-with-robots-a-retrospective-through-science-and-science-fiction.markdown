@@ -143,7 +143,6 @@ possible problems with human-robot love.
 
 ### Black Mirror ###
 
-<br/><br/>
 ![Be Right Back](../images/laswr/black-mirror.png)
 <br/><br/>
 
@@ -168,7 +167,6 @@ people the robot can be seen as an enabler for mental harm.
 
 ### Her ###
 
-<br/><br/>
 ![Her](../images/laswr/her.jpg)
 <br/><br/>
 
@@ -198,7 +196,6 @@ prejudice against one's choice of partner.
 
 ### Master of None ###
 
-<br/><br/>
 ![Paro](http://33.media.tumblr.com/96962aecee6cc03dfe9430e14849b1b8/tumblr_nxkbz966FX1qjcyqno1_500.gif)  
 <br/><br/>
 
@@ -302,7 +299,6 @@ recent example is *Ex Machina*'s Ava.
 
 ### Ex Machina ###
 
-<br/><br/>
 ![Ex Machina](../images/laswr/exmachina.jpg)
 <br/><br/>
 
