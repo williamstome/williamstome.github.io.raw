@@ -257,11 +257,11 @@ Some of these are reasons why people choose to visit
 prostitutes. While there's some concern about robots taking the jobs
 of sex workers, there's something to be said about robot sex workers
 who can't be exploited, can't get or spread diseases, and can't be
-hurt. Before I move on, I'd like to quote some facts laid out by Levy;
-maybe I'm just naive, but I found them quite shocking.
+hurt. Before I move on, I'd like to quote some facts laid out by Levy
+about the history of prostitution which I found pretty surprising.
 
-- In the 1800s, it's estimated that between 10 and 25 percent of /all
-  young women/ in New York City were prostitutes, making prostitution
+- In the 1800s, it's estimated that between 10 and 25 percent of *all
+  young women* in New York City were prostitutes, making prostitution
   the second largest business of the time after tailoring.
 - In the mid-20th century, Alfred Kinsey estimated that 69\% of white
   American men had been to a prostitute at least once. 
