@@ -76,8 +76,8 @@ Emotional Bonds between Humans and Social Robots*, Scheutz argues that
 social robots may inflict *emotional harm* on their users.
 People are incredibly quick to ascribe agency and mental states to
 robots as if they were alive, allowing robots to affect people in the
-same way that their animals do. This causes people to treat robots
-much differently than they do other pieces of technology. If you have a good
+same way that their pets do. This causes people to treat robots
+much differently than they would other pieces of technology. If you have a good
 dishwasher, it's unlikely you'll give it the occasional "night off"
 and wash the dishes by hand as a reward for good behavior; but there
 have been reports of people doing just that for their
@@ -91,7 +91,7 @@ these are relationships that are not reciprocated; the robots do not
 necessarily care about humans at all! This presents a tremendous
 opportunity for mass exploitation: a robotics company could easily
 program their robot to convince owners to do things they would not
-otherwise do, such as buying particular products.
+otherwise do, like buy a particular product.
 
 There are other concerns about these unidirectional relationships
 beyond their potential for abuse. Philosopher Robert Sparrow
