@@ -141,11 +141,11 @@ A number of recent pieces of science fiction have also delved into the
 possible problems with human-robot love. 
 **(Be prepared to skip this section if you want to avoid spoilers.)**
 
+### Black Mirror ###
+
 <br/><br/>
 ![Be Right Back](../images/laswr/black-mirror.png)
 <br/><br/>
-
-### Black Mirror ###
 
 Perhaps the best example comes from *Be Right Back*, Season 2 Episode 1 of the
 Channel 4 / Netflix show *Black Mirror*. In that episode, a woman (Martha, played
