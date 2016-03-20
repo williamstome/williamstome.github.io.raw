@@ -174,9 +174,10 @@ focuses on love between a human (Theodore, played by Joaquin Phoenix)
 and an *artificially intelligent agent* (Samantha, played by Scarlett
 Johansson). This
 leads to several scenarios which are harder to envision between a
-human and a robot, such as the possibility of an AI simultaneously
+human and a robot, such as the possibility of an AI 
 falling deeply, truly, in love with hundreds or thousands of
-people. In *Her*, however, the problems of unidirectional social bonds
+people simultaneously. In *Her*, however, the problems of
+unidirectional social bonds 
 do not seem to manifest; because Samantha is such an incredibly
 sophisticated AI, one could argue that she really does love Theodore,
 and thus the social bonds between Samantha and Theodore are truly
