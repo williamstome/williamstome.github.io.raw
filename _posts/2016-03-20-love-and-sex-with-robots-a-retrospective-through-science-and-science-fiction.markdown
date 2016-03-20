@@ -227,7 +227,7 @@ and what is more, *sex robots are already here*.
 
 As Levy describes, at the time of the book's writing hundreds of
 highly realistic humanoid sex robots were being sold each year from a
-single company. That company has now sold [http://www.nytimes.com/2015/06/12/technology/robotica-sex-robot-realdoll.html?emc=edit_th_20150612&nl=todaysheadlines&nlid=1638&_r=1](over 5000 sex robots).
+single company. That company has now sold [over 5000 sex robots](http://www.nytimes.com/2015/06/12/technology/robotica-sex-robot-realdoll.html?emc=edit_th_20150612&nl=todaysheadlines&nlid=1638&_r=1).
 This highlights the importance of having discussions about this issue:
 unlike super-intelligent AI, which certain famous intellectuals have
 gotten worked up about, the concern with sex robots isn't whether
