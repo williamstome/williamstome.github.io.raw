@@ -263,9 +263,9 @@ about the history of prostitution which I found pretty surprising.
 - In the 1800s, it's estimated that between 10 and 25 percent of *all
   young women* in New York City were prostitutes, making prostitution
   the second largest business of the time after tailoring.
-- In the mid-20th century, Alfred Kinsey estimated that 69\% of white
+- In the mid-20th century, Alfred Kinsey estimated that 69% of white
   American men had been to a prostitute at least once. 
-- A survey in the mid-20th century found that 47\% of French men who
+- A survey in the mid-20th century found that 47% of French men who
   were practicing Catholics had lost their virginity to a prostitute.
 - In 2000, there were an estimated 30,000 male prostitutes in Thailand.
 
