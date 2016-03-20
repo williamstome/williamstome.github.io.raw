@@ -241,6 +241,7 @@ I won't directly comment on them, as each could fill its own blog
 post, but I'll list out some of them as food for thought.
 
 Sex robots may be used by:
+
 - Those with STDs such as AIDS that can make it *irresponsible* to
   have sex with others.
 - Those for whom it's *physically difficult* to
