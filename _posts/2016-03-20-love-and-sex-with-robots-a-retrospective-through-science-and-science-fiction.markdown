@@ -171,7 +171,7 @@ people the robot can be seen as an enabler for mental harm.
 In a similar vein, we have one of my favorite movies,
 *Her*. Technically, *Her* 
 focuses on love between a human (Theodore, played by Joaquin Phoenix)
-and an *artificial intelligence* (Samantha, played by Scarlett
+and an *artificially intelligent agent* (Samantha, played by Scarlett
 Johansson). This
 leads to several scenarios which are harder to envision between a
 human and a robot, such as the possibility of an AI simultaneously
