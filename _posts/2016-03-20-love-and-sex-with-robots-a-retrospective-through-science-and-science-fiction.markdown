@@ -139,7 +139,7 @@ viewing (language-incapable) robot pets as being "morally deplorable".
 ## The Science Fiction of Human-Robot Love ##
 A number of recent pieces of science fiction have also delved into the
 possible problems with human-robot love. 
-**(Be prepared to skip this section if you want to avoid spoilers)**
+**(Be prepared to skip this section if you want to avoid spoilers.)**
 
 <br/><br/>
 ![Be Right Back](../images/laswr/black-mirror.png)
@@ -285,7 +285,7 @@ roboticists who design more human-like robots, to say nothing of [those
 who develop androids](https://www.youtube.com/watch?v=DF39Ygp53mQ).
 
 ## The Science-Fiction of Sex with Robots ##
-**(Be prepared to skip this section if you want to avoid spoilers)**
+**(Be prepared to skip this section if you want to avoid spoilers.)**
 
 It's hard not to feel like this is all science fiction. And indeed,
 sex robots have been showing up more and more in popular culture. The
