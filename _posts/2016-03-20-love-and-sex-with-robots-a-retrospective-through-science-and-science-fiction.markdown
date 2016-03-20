@@ -157,7 +157,7 @@ of her husband (Ash, played by Domhnall Gleeson). The show goes on to
 demonstrate the psychological harm 
 this inflicts upon Martha: because of the android, Martha does not
 move forward with her life, and instead keeps the robot around
-*(possibly* **against her own wishes** *)* for years to come.
+**(possibly against her own wishes)** for years to come.
 The episode also shows how the android copy of
 Ash is able to coerce Martha into keeping it around.
 Because Martha chooses to devote her emotional
