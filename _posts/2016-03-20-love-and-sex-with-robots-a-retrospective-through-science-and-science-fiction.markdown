@@ -12,8 +12,8 @@ date: 2016-03-20
 comments: true
 ---
 
-**\<Disclaimer\> All discussion in this blog post are, as usual, my
-thoughts alone and don't reflect the views of my lab, advisor,
+**\<Disclaimer\> All contents of this blog post are, as usual, my
+thoughts alone, and don't reflect the views of my lab, advisor,
 university, or funding agencies. \</Disclaimer\>**
 
 In his 2007 book *Love and Sex with Robots*, David Levy paints a
