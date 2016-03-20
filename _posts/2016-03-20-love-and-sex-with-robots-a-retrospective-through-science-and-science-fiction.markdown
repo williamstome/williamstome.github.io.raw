@@ -223,7 +223,7 @@ job of making a convincing argument in this section, in part because
 he doesn't 
 have to rely on rampant futurism: no sophisticated AI capabilities are
 necessary for the greater part of a sex robot's necessary functioning,
-and what is more, *sex robots are already here*.
+and what is more, **sex robots are already here**.
 
 As Levy describes, at the time of the book's writing hundreds of
 highly realistic humanoid sex robots were being sold each year from a
@@ -231,8 +231,8 @@ single company. That company has now sold [over 5000 sex robots](http://www.nyti
 This highlights the importance of having discussions about this issue:
 unlike super-intelligent AI, which certain famous intellectuals have
 gotten worked up about, the concern with sex robots isn't whether
-they'll exist in the next half-millenium. **Sex robots are already
-here**, and they have the capacity to drastically alter society in the
+they'll exist in the next half-millenium. Sex robots are already
+here, and they have the capacity to drastically alter society in the
 course of the next few *decades*.
 
 Building on his description of the state of sex robots, Levy describes
