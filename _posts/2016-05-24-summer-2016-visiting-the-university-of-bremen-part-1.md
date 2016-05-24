@@ -32,7 +32,7 @@ off my trip with a two-day visit to Amsterdam (it turns out it's
 rather expensive to fly into Bremen directly), and I hope to take a
 weekend at some point to visit elsewhere in Germany (Cologne, most
 likely). I've been dabbling in German on Duolingo, so hopefully I
-shouldn't have too much trouble getting around. (Knock on wood).
+won't have too much trouble getting around. (Knock on wood).
 
 I'm looking forward to my trip, and I think it'll be a really good
 experience for me. Auf Wiedersehen Amerika, Hallo Deutschland!
