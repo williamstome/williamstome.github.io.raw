@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer 2016: Visiting the University of Bremen (Part 1)"
+title: "Summer 2016: Visiting the University of Bremen"
 modified: 2016-05-25
 excerpt: 
 tags: []
@@ -12,7 +12,7 @@ date: 2016-05-24
 comments: true
 ---
 
-Auf Wiedersehen, America, Hallo Deutschland!
+Auf Wiedersehen Amerika, Hallo Deutschland!
 
 In just a few short days, I'll be travelling to Germany: land of
 lager, locomotives, and lederhosen, if American television is to be
