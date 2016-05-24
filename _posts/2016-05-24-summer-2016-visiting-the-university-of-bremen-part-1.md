@@ -2,7 +2,7 @@
 layout: post
 title: "Summer 2016: Visiting the University of Bremen"
 modified: 2016-05-25
-excerpt: 
+excerpt: Auf Wiedersehen Amerika, Hallo Deutschland!
 tags: []
 image: 
   feature: features/schnell.jpg
