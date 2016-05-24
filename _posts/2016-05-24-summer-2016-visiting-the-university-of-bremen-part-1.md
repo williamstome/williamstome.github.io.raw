@@ -17,7 +17,6 @@ Auf Wiedersehen Amerika, Hallo Deutschland!
 In just a few short days, I'll be traveling to Germany: land of
 lager, locomotives, and lederhosen, if American television is to be
 believed. 
-#
 Last year, our lab had the pleasure of hosting Fereshta Yazdani, a PhD
 student working with Michael Beetz at the University of Bremen. Now, I
 will be visiting their lab for one month, where I will work to
