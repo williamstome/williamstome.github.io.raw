@@ -12,8 +12,6 @@ date: 2016-05-24
 comments: true
 ---
 
-Auf Wiedersehen Amerika, Hallo Deutschland!
-
 In just a few short days, I'll be traveling to Germany: land of
 lager, locomotives, and lederhosen, if American television is to be
 believed. 
@@ -32,7 +30,13 @@ bar" in Bremen appears to only have two beers on tap*. This isn't to
 say I plan to spend **all** my time in lab, of course! I'll be kicking
 off my trip with a two-day visit to Amsterdam (it turns out it's
 rather expensive to fly into Bremen directly), and I hope to take a
-weekend at some point to visit elsewhere in Germany (Cologne, most likely).
+weekend at some point to visit elsewhere in Germany (Cologne, most
+likely). I've been dabbling in German on Duolingo, so hopefully I
+shouldn't have too much trouble getting around. (Knock on wood).
+
+I'm looking forward to my trip, and I think it'll be a really good
+experience for me. Auf Wiedersehen Amerika, Hallo Deutschland!
+
 
 *****
 
