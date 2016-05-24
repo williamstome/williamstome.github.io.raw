@@ -26,7 +26,7 @@ writing papers, remotely supervising my undergraduate research
 assistants, and helping to organize a workshop for the AAAI Fall
 Symposium. 
 
-Being productive shouldn't be too hard, given that my Linux laptop
+Being productive should be easy, given that my Linux laptop
 can't run most games (e.g., Overwatch), and given that the best "beer
 bar" in Bremen appears to only have two beers on tap*. This isn't to
 say I plan to spend **all** my time in lab, of course! I'll be kicking
