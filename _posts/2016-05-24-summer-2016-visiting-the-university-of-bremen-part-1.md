@@ -14,7 +14,7 @@ comments: true
 
 Auf Wiedersehen Amerika, Hallo Deutschland!
 
-In just a few short days, I'll be travelling to Germany: land of
+In just a few short days, I'll be traveling to Germany: land of
 lager, locomotives, and lederhosen, if American television is to be
 believed. 
 #
