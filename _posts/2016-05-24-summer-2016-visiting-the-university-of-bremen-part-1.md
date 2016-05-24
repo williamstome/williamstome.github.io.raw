@@ -34,6 +34,7 @@ off my trip with a two-day visit to Amsterdam (it turns out it's
 rather expensive to fly into Bremen directly), and I hope to take a
 weekend at some point to visit elsewhere in Germany (Cologne, most likely).
 
+*****
 
 *Everyone's first reaction to my travel announcement is to ask whether
  I'm excited for the beer in Germany. While I'm excited to live in a
