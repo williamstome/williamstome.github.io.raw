@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Book and Article Recommendations"
 modified: 2014-11-05
 excerpt: "From time to time, people ask me for book recommendations pertaining to my research area (Natural Language Dialogue meets Robotics meets Artificial Intelligence)."

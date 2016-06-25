@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Study in Chrome: The Ethics of Silverside [PAX East 2015]"
 modified:
 excerpt: "This PAX East was my fourth as an attendee, but my first as a 'special guest'. This year, I was designated a 'special guest' because I organized and sat on a panel. Not on video games, but on robot ethics."

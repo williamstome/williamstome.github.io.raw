@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Love and Sex With Robots: A Retrospective Through Science and Science Fiction"
 modified: 2016-03-20
 excerpt: "In this blog post, I\'ll provide some of my thoughts on David Levy\'s \"Love and Sex with Robots\", and provide some commentary from recent science and science fiction on the issues Levy raises (or fails to raise)."

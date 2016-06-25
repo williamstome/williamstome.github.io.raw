@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Philadelphia Beerlytics, Part One"
 excerpt: 'As a follow up to my previous Beerlytics posts, I wanted to take a look at what beers are actually on tap at the various bars in a particular city.'
 modified: 2014-12-13

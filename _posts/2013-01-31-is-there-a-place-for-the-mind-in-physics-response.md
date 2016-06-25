@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '"Is There A Place for The Mind in Physics" Response'
 excerpt: "My sister recently tweeted a link to an article entitled 'Is There A Place For The Mind In Physics'. I largely agree with the reviewer, but am quite incredulous towards some of the reviewed author's notions."
 modified: 2014-10-19

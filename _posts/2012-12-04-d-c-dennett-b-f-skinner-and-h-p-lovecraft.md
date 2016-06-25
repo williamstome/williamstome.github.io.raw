@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "D.C.Dennett, B.F.Skinner and H.P.Lovecraft"
 excerpt: "Today was my last lecture in the 'Philosophical Foundations of Cognitive Science' class I took this semester with Dan Dennett."
 modified: 2014-10-19

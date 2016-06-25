@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning Objectives for an Introductory AI Course"
 modified: 2015-06-01
 excerpt: "IN WHICH I write new learning objectives for Intro to AI"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'High Density Beerlytics: Data Visualization of Beer Neighborhoods'
 excerpt: 'I love beer. I love data. This is a dangerous combination.'
 modified: 2014-10-19

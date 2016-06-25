@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Beerlytics: Bar Density"
 excerpt: "If we only look at bars, brewpubs and restaurants, are our results the same?"
 modified: 2014-10-19

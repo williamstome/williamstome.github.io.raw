@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Initial Thoughts on (Re)designing an Introductory AI Course"
 modified: 2015-05-07
 excerpt: "A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program"

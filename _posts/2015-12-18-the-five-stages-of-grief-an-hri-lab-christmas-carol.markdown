@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Five Stages of Grief: An HRI Lab Christmas Carol"
 modified: 2015-12-18
 tags: [hri, lab culture]

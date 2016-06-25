@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Guided Tour of HRI"
 modified: 2016-02-05
 categories: 

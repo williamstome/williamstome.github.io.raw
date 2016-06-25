@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Could You Maybe Possibly Explain Indirect Speech Acts?"
 modified: 2014-10-19
 excerpt: "My work in the human-robot interaction laboratory focuses on making dialogue between humans and robots as *natural* as possible."

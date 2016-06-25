@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Brainstorming the Ideal Class Rhythm
 modified: 2015-05-28
 excerpt: "A major part of GIFT training has been learning various active learning strategies..."

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Should Fully Autonomous Weapons Systems Be Banned?"
 modified: 2015-02-04
 excerpt: "A recount of the 2015 AAAI Debate on Autonomous Weapons"

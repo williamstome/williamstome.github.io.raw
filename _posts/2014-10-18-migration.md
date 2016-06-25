@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Migration
 excerpt: "This posts marks the first in my migration from wordpress to github.io."
 modified: 2014-10-18

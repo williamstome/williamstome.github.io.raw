@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Teaching Philosophy
 modified: 2015-07-04
 excerpt: "Why do students think computer science is about computers?"

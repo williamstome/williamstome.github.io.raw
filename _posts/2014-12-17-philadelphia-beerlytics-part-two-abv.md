@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Philadelphia Beerlytics Part Two: ABV"
 modified: 2014-12-17
 excerpt: "In this post, I'm continuing on that topic with an eye toward one of the more-requested statistics: Alcohol By Volume(ABV)"

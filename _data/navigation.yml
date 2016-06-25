@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Author
+  - title: "Author"
     url: http://hrilab.tufts.edu/~twilliam/
 
   - title: "Posts"
@@ -8,3 +8,4 @@ main:
 
   - title: "RSS"
     url: /feed.xml
+
