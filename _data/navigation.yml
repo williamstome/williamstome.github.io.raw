@@ -1,13 +1,10 @@
-# Site navigation links
+# main links links
+main:
+  - title: "Author
+    url: http://hrilab.tufts.edu/~twilliam/
 
-- title: About
-  url: /about/
+  - title: "Posts"
+    url: /posts/
 
-- title: Posts
-  url: /posts/
-
-- title: RSS
-  url: /feed.xml
-
-- title: Author
-  url: http://hrilab.tufts.edu/~twilliam/
+  - title: "RSS"
+    url: /feed.xml

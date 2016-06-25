@@ -1,58 +1,229 @@
-# Site wide configuration
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-title:            williamstome
-locale:           en_US
-url:              http://williamstome.github.io/
+# Site Settings
+locale                   : "en-US"
+title                    : williamstome
+title_separator          : "-"
+name                     : "Tom Williams"
+description              : "A research blog focusing on artiicial intelligence and human-robot interacion."
+url                      : http://williamstome.github.io/
+baseurl                  : # the subpath of your site, e.g. "/blog"
+gh_repo                  :
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  disqus:
+    shortname            : "tomWT" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : "williamstome"
+facebook:
+  username               : "TomEWilliams"
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/williamstome"
+    - "https://facebook.com/TomEWilliams"
+    - "https://www.linkedin.com/in/williamstome"
+    - "https://scholar.google.com/citations?user=qg_aiScAAAAJ"
+    - "https://www.mendeley.com/profiles/tom-williams23/"
+    - "https://www.researchgate.net/profile/Tom_Williams19"
+# Analytics
+analytics:
+  provider               : "google"  # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-43501910-1"
+
+# Google AdSense
+google_ad_client         :
+google_ad_slot           :
 
 
-# Jekyll configuration
+# Site Author
+author:
+  name             : "Tom Williams"
+  avatar           : "https://en.gravatar.com/userimage/26616054/e6f3322a7a49fe676683654ec3dbafce.jpg?size=200"
+  bio              : "Graduate Researcher in Artificial Intelligence and Human-Robot Interaction"
+  location         : "Medford, Massachussetts"
+  email            : "williams@cs.tufts.edu"
+  uri              : "http://hrilab.tufts.edu/~twilliam"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : "TomEWilliams"
+  foursquare       :
+  github           : "williamstome"
+  google_plus      : "112738925898757865574"
+  keybase          :
+  instagram        :
+  lastfm           : "williamstome"
+  linkedin         : "williamstome"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "williamstome"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : "HVj64bAL66gwgRjQKH-aFQ"
+  mendeley         : "tom-williams23"
+  scholar          : "qg_aiScAAAAJ"
+  researchgate     : "Tom_Williams19"
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
 
 
-# Site owner
-owner:
-  name: Tom Williams
-  avatar: https://en.gravatar.com/userimage/26616054/e6f3322a7a49fe676683654ec3dbafce.jpg?size=200
-  bio: "Graduate Researcher in Artificial Intelligence and Human-Robot Interaction"
-  email: williams@cs.tufts.edu
-  disqus-shortname: williamstome
-  twitter: williamstome
-  facebook: #username
-  google:
-    plus: 112738925898757865574
-    analytics: UA-43501910-1
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: williamstome
-  stackoverflow: #username
-  linkedin: williamstome
-  instagram: #username
-  lastfm: williamstome
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  mendeley: tom-williams23
-  scholar: qg_aiScAAAAJ
-  researchgate: Tom_Williams19
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Boston # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-archives
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-archives
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
