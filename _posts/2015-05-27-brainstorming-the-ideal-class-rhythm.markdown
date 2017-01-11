@@ -3,10 +3,9 @@ title: Brainstorming the Ideal Class Rhythm
 modified: 2015-05-28
 excerpt: "A major part of GIFT training has been learning various active learning strategies..."
 tags: [ai, teaching, pedagogy]
-image:
-  feature: features/rhythm.png
-  credit: Furanda
-  creditlink: https://www.flickr.com/photos/furanda/
+header:
+  image: features/rhythm.png
+  caption: "Photo credit: [**Furanda**](https://www.flickr.com/photos/furanda/)"
 date: 2015-05-27
 comments: true
 ---

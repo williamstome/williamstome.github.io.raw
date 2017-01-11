@@ -3,9 +3,11 @@ title: "(Re)designing an Introductory AI Course: Post-Semester Analysis"
 modified: 2016-02-05
 excerpt: "IN WHICH I compare my planned AI course to reality."
 tags: [ai, teaching, pedagogy]
-image:
-  feature: features/AIMA.png
-  credit: Artificial Intelligence- A Modern Approach
+header:
+  image: features/AIMA.png
+  caption: "Photo credit: Artificial Intelligence- A Modern Approach"
+  teaser: teasers/AIMA.png
+  og_image: og/AIMA.png
 date: 2016-02-05
 comments: true
 ---

@@ -4,8 +4,8 @@ excerpt: "If we only look at bars, brewpubs and restaurants, are our results the
 modified: 2014-10-19
 tags: [beer, data, visualization]
 comments: true
-image:
-  feature: features/bar-density.png
+header:
+  image: features/bar-density.png
 ---
 
 #Recap#

@@ -3,10 +3,9 @@ title: "Book and Article Recommendations"
 modified: 2014-11-05
 excerpt: "From time to time, people ask me for book recommendations pertaining to my research area (Natural Language Dialogue meets Robotics meets Artificial Intelligence)."
 tags: [hri, natural language, dialog, robotics, books, ai]
-image:
-  feature: features/bookrecs.png
-  credit: Azrasta
-  creditlink: https://www.flickr.com/photos/azrasta/5088254388/in/photolist-oYHm-aGsP14-51t5TC-8KCCKW-4hn47g-7PozJp-mBGj-84P71r-7HoeXV-UmBz-5NZzVJ-dphot9-ntNE-6DfhNt-ahytco-ca5ZF-9kHQKs-ix8Rbz-cBJ5d-eqHuv-6NP8d6-aT9to6-9K3BPW-2PgAx-97oiDM-aRxNm-fo562E-HdurS-aibaen-7Nbvbk-KLWAb-maAU6-amWKZg-6buevW-6GjMcy-amWKX6-amWKYM-7acJMF-8DFBf3-MLnGM-9TvtEQ-abK4Bq-dGa2xi-2U9nA-bF4Yf7-6Knypk-hss2M-61kymQ-f4HeM7-9ZVvhF
+header:
+  image: features/bookrecs.png
+  caption: "Photo credit: [**Azrasta**](https://www.flickr.com/photos/azrasta/5088254388/in/photolist-oYHm-aGsP14-51t5TC-8KCCKW-4hn47g-7PozJp-mBGj-84P71r-7HoeXV-UmBz-5NZzVJ-dphot9-ntNE-6DfhNt-ahytco-ca5ZF-9kHQKs-ix8Rbz-cBJ5d-eqHuv-6NP8d6-aT9to6-9K3BPW-2PgAx-97oiDM-aRxNm-fo562E-HdurS-aibaen-7Nbvbk-KLWAb-maAU6-amWKZg-6buevW-6GjMcy-amWKX6-amWKYM-7acJMF-8DFBf3-MLnGM-9TvtEQ-abK4Bq-dGa2xi-2U9nA-bF4Yf7-6Knypk-hss2M-61kymQ-f4HeM7-9ZVvhF)"
 date: 2014-10-20
 comments: true
 ---

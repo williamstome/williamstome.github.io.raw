@@ -4,9 +4,9 @@ excerpt: "Today was my last lecture in the 'Philosophical Foundations of Cogniti
 modified: 2014-10-19
 tags: [lovecraft, philosophy]
 comments: true
-image:
-  feature: features/skinnerdennetlovecraft.png
-  credit: WeGraphics, Wikimedia, nndb.com, news.stanford.com
+header:
+  image: features/skinnerdennetlovecraft.png
+  caption: "Photo credit: WeGraphics, Wikimedia, nndb.com, news.stanford.com"
 ---
 
 Today was my last lecture in the "Philosophical Foundations of Cognitive Science"

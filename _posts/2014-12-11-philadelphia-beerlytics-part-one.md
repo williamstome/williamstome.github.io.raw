@@ -4,10 +4,9 @@ excerpt: 'As a follow up to my previous Beerlytics posts, I wanted to take a loo
 modified: 2014-12-13
 tags: [beer, data, visualization]
 comments: true
-image:
-  feature: features/philly_beer.png
-  credit: Benjamin L. Haas
-  creditlink: http://www.flickr.com/photos/benjaminlhaas/3343152090
+header:
+  image: features/philly_beer.png
+  caption: "Photo credit: [**Benjamin L. Haas**](http://www.flickr.com/photos/benjaminlhaas/3343152090)"
 ---
 
 # The Data

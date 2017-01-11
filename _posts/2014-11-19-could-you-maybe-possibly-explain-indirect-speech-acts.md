@@ -3,8 +3,8 @@ title: "Could You Maybe Possibly Explain Indirect Speech Acts?"
 modified: 2014-10-19
 excerpt: "My work in the human-robot interaction laboratory focuses on making dialogue between humans and robots as *natural* as possible."
 tags: [hri, natural language, dialog, robotics]
-image: 
-  feature: features/pragmatics.png
+header: 
+  image: features/pragmatics.png
 date: 2014-11-19
 comments: true
 ---

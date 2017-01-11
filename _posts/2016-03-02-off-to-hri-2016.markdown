@@ -3,9 +3,9 @@ title: Five Reasons Why I'm Excited for HRI 2016
 modified: 2016-03-02
 excerpt: "I\'m headed to New Zealand!"
 tags: [hri, travel]
-image: 
-  feature: features/HRI-2016-banner-logo21.png
-  credit: http://humanrobotinteraction.org/
+header: 
+  image: features/HRI-2016-banner-logo21.png
+  caption: "Photo credit: [**HRI**](http://humanrobotinteraction.org/)"
 date: 2016-03-02
 comments: true 
 ---

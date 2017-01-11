@@ -4,10 +4,9 @@ modified: 2014-12-17
 excerpt: "In this post, I'm continuing on that topic with an eye toward one of the more-requested statistics: Alcohol By Volume(ABV)"
 tags: [beer, data]
 comments: true
-image:
-  feature: features/abv.png
-  credit: Khaz
-  creditlink: https://www.flickr.com/photos/khaz/4590067861
+header:
+  image: features/abv.png
+  caption: "Photo credit: [**Khaz**](https://www.flickr.com/photos/khaz/4590067861)"
 ---
 
 

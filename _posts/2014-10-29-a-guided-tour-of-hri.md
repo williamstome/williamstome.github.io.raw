@@ -4,10 +4,9 @@ modified: 2016-02-05
 categories: 
 excerpt: "In a series of blog posts, I'd like to discuss some of the big topics in HRI. As I add new posts in the series, I will link to them on this page."
 tags: [hri, robotics]
-image:
-  feature: features/guidedtour.png
-  credit: Brett Davis
-  creditlink: https://www.flickr.com/photos/brettdavis/4436992556
+header:
+  image: features/guidedtour.png
+  caption: "Photo credit: [**Brett Davis**](https://www.flickr.com/photos/brettdavis/4436992556)"
 date: 2014-10-29
 ---
 

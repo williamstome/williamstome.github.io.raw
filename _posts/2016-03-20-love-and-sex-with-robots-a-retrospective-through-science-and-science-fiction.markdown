@@ -3,10 +3,11 @@ title: "Love and Sex With Robots: A Retrospective Through Science and Science Fi
 modified: 2016-03-20
 excerpt: "In this blog post, I\'ll provide some of my thoughts on David Levy\'s \"Love and Sex with Robots\", and provide some commentary from recent science and science fiction on the issues Levy raises (or fails to raise)."
 tags: [hri, ethics]
-image:
-  feature: laswr/laswr-feature.jpg
-  credit: ectysis
-  creditlink: ectysis.wordpress.com
+header:
+  image: laswr/laswr-feature.jpg
+  caption: "Photo credit: [**ectysis**](ectysis.wordpress.com)"
+  teaser: teasers/laswr.jpg
+  og_image: og/laswr.jpg
 date: 2016-03-20
 comments: true
 ---

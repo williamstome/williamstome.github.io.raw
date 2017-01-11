@@ -3,9 +3,8 @@ title: "A Study in Chrome: The Ethics of Silverside [PAX East 2015]"
 modified:
 excerpt: "This PAX East was my fourth as an attendee, but my first as a 'special guest'. This year, I was designated a 'special guest' because I organized and sat on a panel. Not on video games, but on robot ethics."
 tags: [robotics, ethics, outreach]
-image:
-  feature: features/automata.jpg
-  credit: PennyArcade.com
+header:
+  caption: "Photo credit: [**Penny Arcade**](PennyArcade.com)"
 date: 2015-03-11
 comments: true
 ---

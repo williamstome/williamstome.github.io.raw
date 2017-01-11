@@ -3,10 +3,6 @@ title: Is Robot Telepathy Acceptable?
 modified: 2015-10-06
 excerpt: "One of my tertiary research interests involves whether there is an 'uncanny valley of actions', that is, are there certain robot *behaviors* that may be useful to the robot, but should be avoided because they creep people out."
 tags: [hri, robotics, dialog, uncanny valley]
-image:
-feature: 
-credit: 
-creditlink: 
 date: 2015-10-06
 comments: true
 ---

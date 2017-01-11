@@ -4,9 +4,8 @@ excerpt: 'I love beer. I love data. This is a dangerous combination.'
 modified: 2014-10-19
 tags: [beer, data, visualization]
 comments: true
-image:
-  feature: features/high-density-beerlytics.png
-  credit: Tom Williams
+header:
+  image: features/high-density-beerlytics.png
 ---
 
 I love beer. I love data. This is a dangerous combination.<br />In two

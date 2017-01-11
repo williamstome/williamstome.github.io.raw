@@ -3,9 +3,11 @@ title: "Initial Thoughts on (Re)designing an Introductory AI Course"
 modified: 2015-05-07
 excerpt: "A month or so ago, I was accepted to the Tufts GIFT (Graduate Institute for Teaching) program"
 tags: [ai, teaching, pedagogy]
-image:
-  feature: features/AIMA.png
-  credit: Artificial Intelligence- A Modern Approach
+header:
+  image: features/AIMA.png
+  caption: "Photo credit: Artificial Intelligence- A Modern Approach"
+  teaser: teasers/AIMA.png
+  og_image: og/AIMA.png
 date: 2015-05-07
 comments: true
 ---

@@ -3,10 +3,11 @@ title: "Summer 2016: Visiting the University of Bremen"
 modified: 2016-05-25
 excerpt: Auf Wiedersehen Amerika, Hallo Deutschland!
 tags: [travel]
-image: 
-  feature: features/schnell.jpg
-  credit: Uni-Bremen
-  creditlink: wiwi.uni-bremen.de
+header: 
+  image: features/schnell.jpg
+  caption: "Photo credit: [**Uni-Bremen**](wiwi.uni-bremen.de)"
+  teaser: teasers/schnell.jpg
+  og_image: og/schnell.jpg
 date: 2016-05-24
 comments: true
 ---

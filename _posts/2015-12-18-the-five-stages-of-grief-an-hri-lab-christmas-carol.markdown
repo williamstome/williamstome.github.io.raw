@@ -3,10 +3,9 @@ title: "The Five Stages of Grief: An HRI Lab Christmas Carol"
 modified: 2015-12-18
 tags: [hri, lab culture]
 excerpt: "**Warning: Less than Serious Material Ahead** -- Happy Holidays!"
-image:
-  feature: features/r2d2.jpg
-  credit: Don Solo
-  creditlink: https://www.flickr.com/photos/donsolo/4211997025/
+header:
+  image: features/r2d2.jpg
+  caption: "Photo credit: [**Don Solo**](https://www.flickr.com/photos/donsolo/4211997025/)"
 date: 2015-12-18
 comments: true
 ---

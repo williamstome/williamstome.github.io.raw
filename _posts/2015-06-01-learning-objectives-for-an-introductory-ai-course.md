@@ -3,9 +3,11 @@ title: "Learning Objectives for an Introductory AI Course"
 modified: 2015-06-01
 excerpt: "IN WHICH I write new learning objectives for Intro to AI"
 tags: [ai, teaching, pedagogy]
-image:
-  feature: features/AIMA.png
-  credit: Artificial Intelligence- A Modern Approach
+header:
+  image: features/AIMA.png
+  caption: Artificial Intelligence- A Modern Approach
+  teaser: teasers/AIMA.png
+  og_image: og/AIMA.png
 date: 2015-06-01
 comments: true
 ---
