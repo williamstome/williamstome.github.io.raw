@@ -87,5 +87,5 @@ next step in our life together.
 students do on occasion leave their natural laboratorial habitat.<br/>
 <a name="myfootnote3">3</a>: *Bonus footnote* (this footnote did not
 originally appear in my dissertation, and is provided to you, free of
-charge, as a token of my appreciation) Cf. [Glum, Holmes, Lotz,
+charge, as a token of my appreciation) Cf. [Andrus, Glum, Holmes, Lotz,
 Robinson, Weaver, and Williams 2017](https://www.youtube.com/watch?v=NVCjSDVUY1M)<br/>
