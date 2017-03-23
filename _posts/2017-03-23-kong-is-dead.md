@@ -26,7 +26,7 @@ however, is the *Acknowledgments* section of my dissertation, given
 that the purpose of such a section is, ironically, to thank a group of
 people who by definition are among the least likely to read your published dissertation (due to hyperfamiliarity with your work or lack of technical background). In fact, *I will share that section in this very post*. 
 
-### Acknowledgments ###
+## Acknowledgments ##
 
 They say it takes a village to raise a graduate student. Well, at least I’ve
 said so. Surely we can agree that there exists at least one person *p* such that
