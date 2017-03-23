@@ -21,7 +21,7 @@ nearly 400 single-spaced pages, much to the chagrin of my committee. I
 will likely not make my dissertation *easily* available (i.e., by
 hosting a PDF on my website) until all of the material in it has been
 published, but I am willing to guess that this is not a fact that
-concerns you (Dear Reader). What I am happy to immediately share,
+concerns you (Dear Reader). What I *am* happy to immediately share,
 however, is the *Acknowledgments* section of my dissertation, given
 that the purpose of such a section is, ironically, to thank a group of
 people who by definition are among the least likely to read your published dissertation (due to hyperfamiliarity with your work or lack of technical background). In fact, *I will share that section in this very post*. 
