@@ -5,7 +5,7 @@ excerpt: Acknowledgments on a finalized dissertation.
 tags: [travel]
 header: 
   image: features/kong.jpg
-  caption: "King Kong, 29176"
+  caption: "King Kong, 1976"
   teaser: teasers/kong.jpg
   og_image: og/kong.jpg
 date: 2017-03-23
