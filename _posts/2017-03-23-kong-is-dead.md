@@ -60,8 +60,8 @@ commiseration, constant inspiration, and of course for the carbonation and
 colonization, which is to say, for the well-hopped board gaming sessions.
 
 Outside of the lab<sup>[2](#myfootnote2)</sup>, I would like to thank
-Mike Shah, who has been a  
-great friend on this amazing journey. On the other side of the pond, I’d
+Mike Shah, who has been a great friend on this amazing journey. On the
+other side of the pond, I’d 
 like to thank Michael Beetz and the members of the Institute for Artificial
 Intelligence at Uni-Bremen, especially Fereshta Yazdani, for one of the most
 interesting, adventurous, and information-dense months of my life. I would
