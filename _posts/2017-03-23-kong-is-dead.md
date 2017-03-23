@@ -44,8 +44,7 @@ It has been an absolute honor to work with him, and I consider it enormously
 and improbably lucky that he took a chance on me and took me into his
 laboratory.
 
-I would also like to thank the other members of my dissertation commit-
-tee; Anselm Blumer for his mentorship as I begin my career as an educator,
+I would also like to thank the other members of my dissertation committee; Anselm Blumer for his mentorship as I begin my career as an educator,
 and Candy Sidner and J.P. de Ruiter both for pushing me to make this
 dissertation the best it can be. All four of my committee members have
 been truly inspirational to me, and have each motivated me to be rigorous
