@@ -4,10 +4,10 @@ main:
   - title: "archive"
     url: /archive/
 
-  - title: "homepage"
+  - title: "author"
     url: http://inside.mines.edu/~twilliams/
 
-  - title: "MIRROR Lab"
+  - title: "lab"
     url: http://mirrorlab.mines.edu/
 
   - title: "cv"
