@@ -5,8 +5,11 @@ main:
     url: /archive/
 
   - title: "homepage"
-    url: http://hrilab.tufts.edu/~twilliam/
+    url: http://inside.mines.edu/~twilliams/
+
+  - title: "MIRROR Lab"
+    url: http://mirrorlab.mines.edu/
 
   - title: "cv"
-    url: http://hrilab.tufts.edu/~twilliam/pdfs/cv.pdf
+    url: http://inside.mines.edu/~twilliams/pdfs/cv.pdf
 
